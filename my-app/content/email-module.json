@@ -1,0 +1,131 @@
+{
+  "id": "email-module",
+  "title": "Using Email Safely",
+  "description": "Learn how to send, receive, and manage emails securely.",
+  "icon": "✉️",
+  "lessons": [
+    {
+      "id": "email-lesson-1",
+      "title": "What is Email?",
+      "difficulty": 1,
+      "content": "Email (electronic mail) is a way to send messages instantly to anyone in the world using the internet.\n\nThink of it like sending a letter, but instead of waiting days for delivery, it arrives in seconds!\n\nEvery email address has two parts separated by the '@' symbol:\n• The username (your name or nickname)\n• The domain (the email service, like gmail.com)\n\nExample: yourname@gmail.com\n\nPopular email services include:\n📧 Gmail (gmail.com) — run by Google\n📧 Outlook (outlook.com) — run by Microsoft\n📧 Yahoo Mail (yahoo.com)\n\nAll of these are free to use and work on phones, tablets, and computers.",
+      "tips": [
+        "Your email address is personal — treat it like your home address.",
+        "Keep your password private and never share it with anyone.",
+        "You can have more than one email account for different purposes."
+      ]
+    },
+    {
+      "id": "email-lesson-2",
+      "title": "Sending Your First Email",
+      "difficulty": 1,
+      "content": "Sending an email is easy! Here are the steps:\n\n1. Click 'Compose' or 'New Message'\n2. Type the recipient's email address in the 'To' field\n3. Write a subject — a short title for your message\n4. Type your message in the big text area\n5. Click 'Send'\n\nThat's it! Your message will arrive in seconds.\n\n📌 Key fields explained:\n• To — the person you are writing to\n• CC (Carbon Copy) — others you want to include who are not the main recipient\n• BCC (Blind Carbon Copy) — others who receive it without anyone else seeing\n• Subject — a short summary of your email's topic\n• Body — your full message goes here",
+      "tips": [
+        "Always double-check the email address before sending — one wrong letter goes to the wrong person.",
+        "A clear subject helps the recipient know what your email is about.",
+        "You can attach photos and documents using the paperclip icon."
+      ]
+    },
+    {
+      "id": "email-lesson-3",
+      "title": "Reading and Replying to Emails",
+      "difficulty": 1,
+      "content": "When someone sends you an email, it arrives in your Inbox. Here is how to read and reply:\n\n📥 Reading an email:\n1. Click on the email in your Inbox to open it\n2. Read the message\n3. Check who sent it — look at the 'From' field at the top\n\n↩️ Replying to an email:\n1. Click the 'Reply' button (usually an arrow icon)\n2. Your reply will automatically go back to the sender\n3. Type your response and click 'Send'\n\n↩️↩️ Reply All:\nUse 'Reply All' if the email was sent to multiple people and you want everyone to see your response.\n\n🔁 Forwarding:\nClick 'Forward' to send the email on to someone else. Type their address in the 'To' field.",
+      "tips": [
+        "Reply keeps your conversation thread together so it is easy to follow.",
+        "Use 'Reply All' carefully — make sure you want everyone to see your message.",
+        "Take your time reading before replying. There is no rush!"
+      ]
+    },
+    {
+      "id": "email-lesson-4",
+      "title": "Organising Your Inbox",
+      "difficulty": 2,
+      "content": "As you use email more, your inbox can fill up quickly. Staying organised makes things much easier.\n\n📁 Folders and Labels:\nMost email services let you create folders (sometimes called Labels in Gmail) to sort your emails.\n\nFor example:\n• Family — emails from relatives\n• Bills — statements and receipts\n• Health — appointment reminders\n• Important — anything urgent\n\n🗑️ Deleting Emails:\nEmails you no longer need can be deleted. They go to the Trash or Bin folder first, so you can recover them if needed.\n\n📌 Starring or Flagging:\nMark important emails with a star ⭐ or flag 🚩 so they are easy to find later.\n\n🔍 Searching:\nUse the Search bar at the top to find any email by typing a name, subject, or keyword.",
+      "tips": [
+        "Unsubscribe from newsletters you no longer read to keep your inbox tidy.",
+        "Check your Spam or Junk folder occasionally — genuine emails sometimes get filtered there.",
+        "The Archive feature moves emails out of your inbox without deleting them."
+      ]
+    },
+    {
+      "id": "email-lesson-5",
+      "title": "Staying Safe with Email",
+      "difficulty": 2,
+      "content": "Unfortunately, some people use email to try to trick or scam others. Here is how to stay safe:\n\n🚩 Warning Signs of a Suspicious Email:\n• From someone you do not know asking for money\n• Messages saying you 'won a prize' — click here!\n• Urgent messages asking for your bank details or passwords\n• Emails with many spelling mistakes or strange formatting\n• Links that don't match the sender's organisation (hover over a link to preview where it goes)\n\n✅ Safe Habits:\n• Never click suspicious links — go directly to the website by typing the address\n• Never share your password, even if asked politely\n• When unsure, ask a family member or friend before acting\n• Check the sender's full email address — scammers often use similar-looking addresses\n\n🔒 Phishing:\nPhishing is when a scammer pretends to be a trusted organisation (like your bank) to steal your details. Real banks and government offices NEVER ask for passwords by email.",
+      "tips": [
+        "Your bank will NEVER ask for your password or PIN by email — ever.",
+        "If an offer sounds too good to be true, it usually is.",
+        "You can report spam emails to keep your inbox clean and protect others."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "email-q1",
+      "question": "What does the '@' symbol separate in an email address?",
+      "options": [
+        { "label": "The username and the domain", "isCorrect": true },
+        { "label": "The subject and the message", "isCorrect": false },
+        { "label": "The sender and the date", "isCorrect": false },
+        { "label": "The attachment and the text", "isCorrect": false }
+      ],
+      "explanation": "An email address like 'yourname@gmail.com' has your username on the left of '@' and the email service domain on the right."
+    },
+    {
+      "id": "email-q2",
+      "question": "You receive an email from an unknown sender offering a cash prize. What should you do?",
+      "options": [
+        { "label": "Click the link to claim the prize", "isCorrect": false },
+        { "label": "Reply with your bank details", "isCorrect": false },
+        { "label": "Delete the email and do not click anything", "isCorrect": true },
+        { "label": "Forward it to all your contacts", "isCorrect": false }
+      ],
+      "explanation": "Emails offering unexpected prizes are almost always scams. Deleting them without clicking any links is the safest action."
+    },
+    {
+      "id": "email-q3",
+      "question": "Which of these is a safe email habit?",
+      "options": [
+        { "label": "Sharing your password with a friend", "isCorrect": false },
+        { "label": "Clicking all links to see where they go", "isCorrect": false },
+        { "label": "Keeping your password private and strong", "isCorrect": true },
+        { "label": "Using the same password for all accounts", "isCorrect": false }
+      ],
+      "explanation": "Keeping your password private and making it strong (long, with a mix of letters and numbers) is one of the most important email safety habits."
+    },
+    {
+      "id": "email-q4",
+      "question": "You want to send the same email to three people but you do not want them to see each other's addresses. Which field do you use?",
+      "options": [
+        { "label": "To", "isCorrect": false },
+        { "label": "CC", "isCorrect": false },
+        { "label": "BCC", "isCorrect": true },
+        { "label": "Subject", "isCorrect": false }
+      ],
+      "explanation": "BCC (Blind Carbon Copy) sends the email to multiple people without revealing each other's email address — great for privacy."
+    },
+    {
+      "id": "email-q5",
+      "question": "Where do emails go when you delete them?",
+      "options": [
+        { "label": "They are gone permanently right away", "isCorrect": false },
+        { "label": "The Trash or Bin folder, where you can recover them", "isCorrect": true },
+        { "label": "The Spam folder", "isCorrect": false },
+        { "label": "They are sent back to the sender", "isCorrect": false }
+      ],
+      "explanation": "Deleted emails go to the Trash or Bin folder first. They are usually kept there for 30 days before being permanently deleted, so you have time to recover them if needed."
+    },
+    {
+      "id": "email-q6",
+      "question": "What is 'phishing'?",
+      "options": [
+        { "label": "A way to organise your inbox", "isCorrect": false },
+        { "label": "A scam where criminals pretend to be trusted organisations to steal your details", "isCorrect": true },
+        { "label": "A feature that blocks spam emails automatically", "isCorrect": false },
+        { "label": "Sending large photo files by email", "isCorrect": false }
+      ],
+      "explanation": "Phishing is a type of scam where criminals send emails pretending to be your bank, the government, or another trusted source — trying to trick you into giving away passwords or personal information."
+    }
+  ]
+}

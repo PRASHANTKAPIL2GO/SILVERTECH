@@ -1,0 +1,131 @@
+{
+  "id": "gov-services-module",
+  "title": "Government Services Online",
+  "description": "Access council services, benefits, and official government help from the comfort of home.",
+  "icon": "🏛️",
+  "lessons": [
+    {
+      "id": "gov-lesson-1",
+      "title": "What Government Services are Online?",
+      "difficulty": 1,
+      "content": "The UK government has moved many services online at GOV.UK — making it possible to complete official tasks from home.\n\n🌐 GOV.UK — The Official Hub:\nAll central UK government services are at www.gov.uk — one single trusted address.\n\n🗒️ Things you can do at GOV.UK:\n✅ Apply for or renew your State Pension\n✅ Claim or manage Universal Credit or other benefits\n✅ Renew your driving licence or check your driving record\n✅ Apply for a passport\n✅ Check your National Insurance record\n✅ Register to vote\n✅ Tell HMRC about a change in circumstances\n✅ Apply for a Blue Badge (disabled parking)\n✅ Find information about Attendance Allowance and Pension Credit\n✅ Apply for NHS Continuing Healthcare\n\n🏘️ Local Council Services:\nYour local council also has its own website for:\n• Paying council tax\n• Applying for Free School Meals or council housing\n• Reporting a pothole, fly-tipping, or street light\n• Booking a bulky waste collection\n• Applying for planning permission\n\nSearch '[your town] council' to find your local council website.",
+      "tips": [
+        "GOV.UK is the ONLY genuine UK government site — be suspicious of any other address claiming to be official.",
+        "You do not need to pay a third-party website to apply for a passport or driving licence — do it directly on GOV.UK for free.",
+        "Use Google to search for the specific service, then ensure the result links to gov.uk before clicking."
+      ]
+    },
+    {
+      "id": "gov-lesson-2",
+      "title": "Creating a GOV.UK One Login Account",
+      "difficulty": 1,
+      "content": "GOV.UK One Login is the single sign-in system for many UK government services. Creating one account gives you access to multiple services.\n\n🔑 How to Create GOV.UK One Login:\n1. Go to www.gov.uk and find a service you want to use (e.g. 'Check State Pension')\n2. Click 'Sign in' or 'Create account'\n3. Enter your email address and create a password\n4. You will be asked to verify your identity — this protects your account\n\n🪪 Identity Verification:\nTo use secure services (like checking your pension or benefits), you need to verify who you are. Options include:\n• Using your UK passport details\n• Using your UK driving licence details\n• Answering security questions from your HMRC record\n\nThis is done entirely online and is secure — these details are checked against government records.\n\n📱 Two-Step Verification:\nGOV.UK One Login always uses 2-factor authentication — a code is sent to your mobile each time you sign in. This keeps your account very secure.\n\n💡 Once set up:\nUse the same email and password for many different GOV.UK services — no need to create separate accounts for each one.\n\n⚠️ Scam Warning:\nGOV.UK will never charge you to create a login. Any website asking for payment for this is a scam.",
+      "tips": [
+        "Use the same GOV.UK One Login for all government services — much more convenient than separate accounts.",
+        "Choose an email address you check regularly for GOV.UK — they send important notices by email.",
+        "Write down your GOV.UK password in your secure notebook just for government services."
+      ]
+    },
+    {
+      "id": "gov-lesson-3",
+      "title": "Pension, Benefits, and HMRC Online",
+      "difficulty": 2,
+      "content": "Some of the most important government services for seniors are related to pensions, benefits, and taxes.\n\n💷 State Pension:\n• Check your State Pension forecast at gov.uk/check-state-pension\n• See your National Insurance contribution record\n• Claim your State Pension online (you can also do this by phone: 0800 731 7898)\n\n🏠 Pension Credit:\n• Pension Credit tops up your income if it's below a certain amount\n• Even small amounts make a difference — and it unlocks other benefits (free TV licence for over-75s, housing benefit, council tax reduction)\n• Check eligibility and apply at gov.uk/pension-credit\n• Or call the Pension Credit helpline: 0800 99 1234\n\n💼 Universal Credit:\n• Apply and manage at gov.uk/universal-credit\n• Once applied, you manage it through an online 'journal'\n\n📋 HMRC Online — Your Tax Account:\n• View your tax code and National Insurance number at gov.uk/personal-tax-account\n• Check if you're due a tax refund\n• Update your address or employment details\n• View your State Pension forecast through HMRC\n\n📞 Still prefer the phone?\nEvery GOV.UK online service has a phone alternative. Telephone numbers are listed on each service's GOV.UK page.",
+      "tips": [
+        "Many seniors miss out on Pension Credit because they don't know about it — it's worth checking even if you think you won't qualify.",
+        "The Age UK benefits calculator at ageuk.org.uk is excellent and easy to use for checking what you're entitled to.",
+        "HMRC's webchat service is available at gov.uk/contact-hmrc — often faster than calling."
+      ]
+    },
+    {
+      "id": "gov-lesson-4",
+      "title": "Renewing Your Passport or Driving Licence",
+      "difficulty": 2,
+      "content": "Renewing official documents is now much easier online — and safer than using a third-party service.\n\n🛂 Renewing Your Passport Online:\n1. Go to gov.uk/renew-adult-passport\n2. Click 'Renew online'\n3. Sign in with GOV.UK One Login\n4. Take or upload a digital photo (many post offices and pharmacies offer digital passport photos that can be emailed)\n5. Confirm your details and pay the fee (currently £82.50 for adult online)\n6. You do not need to send your old passport — you keep it until the new one arrives\n7. Delivery takes approximately 3–4 weeks (allow more if travelling soon)\n\n🚗 Renewing Your Driving Licence:\n• Renew at www.dvla.gov.uk (scroll to 'Renew your driving licence')\n• You must renew your photocard licence every 10 years — you get a reminder by post\n• The service verifies your identity against DVLA records\n• Free if you're just renewing — fee applies if you need a new photo\n\n⚠️ Third-Party Scam Sites:\nSearch 'renew passport' and you may see paid adverts for unofficial 'passport renewal services'. These charge extra fees (sometimes £30+) just to pass your application to the official service. Always use gov.uk directly — it's free to use the government's own service.",
+      "tips": [
+        "Renew your passport through GOV.UK directly — never through a third-party website that charges extra.",
+        "Allow at least 6 weeks before travelling to renew a passport — and longer in busy periods.",
+        "Your driving licence photo must be renewed every 10 years — you get an automatic reminder, but it's worth noting in your diary."
+      ]
+    },
+    {
+      "id": "gov-lesson-5",
+      "title": "Spotting Fake Government Websites and Scams",
+      "difficulty": 3,
+      "content": "Government-related scams are among the most common — criminals impersonate HMRC, the DVLA, and DWP to steal money and personal data.\n\n🚩 Common Government Impersonation Scams:\n\n1. 'HMRC Tax Refund' Emails/Texts:\n'You are due a tax refund of £342. Click here to claim.' — Always a scam. HMRC issues real refunds automatically through your tax code or by cheque/bank transfer — they never ask you to click a link.\n\n2. 'DVLA Licence Renewal' Emails:\nLinking to a fake website charging £30 to 'renew your licence'. Always go directly to dvla.gov.uk.\n\n3. Fake DWP / Universal Credit Calls:\nCaller claims you've been overpaid benefits and demands repayment immediately. Hang up and call DWP directly.\n\n4. Fake 'GOV.UK' Websites:\nAddress like 'gov-uk-passport.com' or 'ukgovernment-services.net' — these are not real. The genuine site is always gov.uk (nothing before or after, except a service path).\n\n✅ How to Stay Safe:\n• Always type gov.uk directly in your browser — never use links from emails or texts\n• The genuine GOV.UK website is ALWAYS https://www.gov.uk/ — no extra words in the address\n• If you're unsure about an HMRC communication, call them on 0300 200 3300\n• Report suspected government scams to Action Fraud: 0300 123 2040\n\n🧓 If You Need Help:\n• Citizens Advice (citizensadvice.org.uk or 0800 144 8848) offers free help navigating government services\n• Age UK (ageuk.org.uk or 0800 678 1602) can assist with benefits, forms, and digital support",
+      "tips": [
+        "HMRC never texts or emails you a link to claim a refund — if you see this, it is a scam.",
+        "The real GOV.UK address is always exactly www.gov.uk — any variation is a fake site.",
+        "Citizens Advice and Age UK offer free, professional help navigating any government service — do not hesitate to call them."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "gov-q1",
+      "question": "What is the official UK government website where you can access all central government services?",
+      "options": [
+        { "label": "government.co.uk", "isCorrect": false },
+        { "label": "gov.uk", "isCorrect": true },
+        { "label": "uk-gov.com", "isCorrect": false },
+        { "label": "britishgov.org", "isCorrect": false }
+      ],
+      "explanation": "The only genuine central UK government website is www.gov.uk — everything from pensions to passport renewal to HMRC is accessible here. Any other address is unofficial or potentially fraudulent."
+    },
+    {
+      "id": "gov-q2",
+      "question": "You receive a text saying 'HMRC: You are owed a £254 tax refund. Click here to claim within 48 hours.' What should you do?",
+      "options": [
+        { "label": "Click the link quickly so you don't miss the deadline", "isCorrect": false },
+        { "label": "Do not click — HMRC never sends refund links by text. Report it to HMRC Phishing.", "isCorrect": true },
+        { "label": "Reply to the text with your bank details", "isCorrect": false },
+        { "label": "Forward it to family to check if it looks real", "isCorrect": false }
+      ],
+      "explanation": "HMRC never sends tax refund links by text or email. Real refunds are issued automatically through your tax code, or by cheque/bank transfer. This is a phishing scam — report it to report@phishing.gov.uk."
+    },
+    {
+      "id": "gov-q3",
+      "question": "What is Pension Credit and why is it worth checking?",
+      "options": [
+        { "label": "A credit card specifically for pensioners", "isCorrect": false },
+        { "label": "A government top-up for people on low retirement incomes, which also unlocks other benefits", "isCorrect": true },
+        { "label": "A reduction on your State Pension if you retire early", "isCorrect": false },
+        { "label": "A scheme for paying council tax for pensioners automatically", "isCorrect": false }
+      ],
+      "explanation": "Pension Credit tops up your retirement income if it's below a threshold — and it automatically unlocks other benefits like a free TV licence (over-75s), housing benefit top-up, and council tax reduction. Many eligible people don't claim it."
+    },
+    {
+      "id": "gov-q4",
+      "question": "You search online for 'renew UK passport' and see an advert for a website charging £30 to 'handle your renewal'. What should you do?",
+      "options": [
+        { "label": "Use the service — £30 is worth it for the convenience", "isCorrect": false },
+        { "label": "Ignore the advert and go directly to gov.uk/renew-adult-passport — the official service is free to use", "isCorrect": true },
+        { "label": "Check if the site has good reviews, then decide", "isCorrect": false },
+        { "label": "Call the site to ask if they are official", "isCorrect": false }
+      ],
+      "explanation": "The official GOV.UK passport renewal service itself is free to use — you only pay the passport fee (£82.50). Third-party sites charge extra to simply submit your application on your behalf. Always go directly to gov.uk."
+    },
+    {
+      "id": "gov-q5",
+      "question": "How often must you renew the photo on your UK photocard driving licence?",
+      "options": [
+        { "label": "Every 5 years", "isCorrect": false },
+        { "label": "Every 10 years", "isCorrect": true },
+        { "label": "Every 15 years", "isCorrect": false },
+        { "label": "Never — the photo is for life", "isCorrect": false }
+      ],
+      "explanation": "UK photocard driving licences must be renewed every 10 years to update the photo. You automatically receive a reminder by post, but it's worth keeping a note in your diary so you're not caught out."
+    },
+    {
+      "id": "gov-q6",
+      "question": "Which free organisation can help you navigate government services, benefits, and forms if you need support?",
+      "options": [
+        { "label": "Amazon Customer Services", "isCorrect": false },
+        { "label": "Citizens Advice or Age UK", "isCorrect": true },
+        { "label": "Your bank's financial adviser", "isCorrect": false },
+        { "label": "A private benefits consultant", "isCorrect": false }
+      ],
+      "explanation": "Citizens Advice (0800 144 8848) and Age UK (0800 678 1602) both offer free, expert help with government services, benefits claims, and completing official forms. They are impartial, free, and experienced."
+    }
+  ]
+}

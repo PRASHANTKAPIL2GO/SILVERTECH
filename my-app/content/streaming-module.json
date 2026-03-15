@@ -1,0 +1,131 @@
+{
+  "id": "streaming-module",
+  "title": "Streaming & Online Entertainment",
+  "description": "Watch films, TV shows, and videos online at any time on any device.",
+  "icon": "🎬",
+  "lessons": [
+    {
+      "id": "streaming-lesson-1",
+      "title": "What is Streaming?",
+      "difficulty": 1,
+      "content": "Streaming means watching or listening to content over the internet — without having to download it first. It plays as it loads, like water from a tap.\n\n🎬 What can you stream?\n• TV shows and films (Netflix, BBC iPlayer, ITV X, Channel 4, Disney+, Amazon Prime)\n• Live sport (Sky, BT Sport, DAZN)\n• Music (Spotify, YouTube Music, Apple Music)\n• YouTube videos — tutorials, comedy, documentaries, news — all free\n• Audiobooks and podcasts\n\n📺 What do you need?\n✅ A smart TV, computer, tablet, or smartphone\n✅ A broadband internet connection (Wi-Fi is best)\n✅ An account on the streaming service (some are free; some require a subscription)\n\n🆓 Free Streaming Services (no subscription needed):\n• BBC iPlayer (iPlayer.bbc.co.uk) — all BBC TV and radio, free with a TV licence\n• ITV X (itv.com/watch) — ITV shows, free with a free account\n• Channel 4 (channel4.com) — Channel 4 content, free with a free account\n• YouTube (youtube.com) — millions of videos, free\n• BritBox has a free trial period\n\n💷 Paid Streaming Services:\n• Netflix — approx. £4.99–£17.99/month\n• Amazon Prime Video — approx. £8.99/month (or included with Prime)\n• Disney+ — approx. £4.99/month",
+      "tips": [
+        "BBC iPlayer, ITV X, and Channel 4 are completely free — a great starting point for streaming.",
+        "You can pause, rewind, and watch at your own pace — no more missing something because you fell asleep!",
+        "Most paid services offer a free trial — you can cancel any time before the trial ends."
+      ]
+    },
+    {
+      "id": "streaming-lesson-2",
+      "title": "Using BBC iPlayer",
+      "difficulty": 1,
+      "content": "BBC iPlayer is the UK's best free streaming service. You can watch any BBC programme — past or present — for free.\n\n🖥️ How to access BBC iPlayer:\n• On a computer: go to bbc.co.uk/iplayer\n• On a smart TV: find the iPlayer app in your TV's app menu\n• On a tablet or phone: download the BBC iPlayer app (free in the App Store / Play Store)\n\n📺 Using iPlayer:\n1. Open iPlayer\n2. Browse by channel (BBC One, BBC Two, etc.) or use search\n3. Click any programme to start watching\n4. You may be asked to sign in — create a free BBC Account\n\n⏸️ Controls:\n• Click anywhere on the video to pause/play\n• The progress bar at the bottom lets you skip forward or back\n• The speaker icon controls volume\n• The four arrows icon enters full screen — press Escape to exit\n\n🕐 Catch-Up:\nMost programmes are available for 30 days after broadcast. Some popular series stay longer.\n\n🔠 Subtitles:\nClick the 'S' or subtitle icon during playback to enable subtitles — excellent if you find it difficult to hear dialogue clearly.\n\n📺 Live TV:\nYou can also watch BBC channels live in real time through iPlayer.",
+      "tips": [
+        "The BBC iPlayer 'A-Z' menu lists every available programme alphabetically — great for finding something specific.",
+        "Enable subtitles if you find TV dialogue hard to follow — it makes a big difference.",
+        "Create a free BBC Account to save programmes to a 'Watchlist' so you never lose track of what you were watching."
+      ]
+    },
+    {
+      "id": "streaming-lesson-3",
+      "title": "Using YouTube",
+      "difficulty": 1,
+      "content": "YouTube is the world's largest video platform — with billions of videos on virtually any topic, all free to watch.\n\n🌐 How to Access:\n• Go to youtube.com on a computer\n• Download the YouTube app on a phone or tablet\n• Many smart TVs have the YouTube app built in\n\n🔍 Searching YouTube:\n1. Click or tap the Search bar 🔍 at the top\n2. Type what you want to watch (e.g. 'how to use a smartphone camera', 'relaxing classical music', 'BBC wildlife documentary')\n3. Press Enter — a list of video results appears\n4. Click a video to start watching\n\n🎵 Popular things to watch on YouTube:\n• Music — virtually every song ever recorded\n• How-to guides — fixing things, cooking recipes, using technology\n• Nature and wildlife documentaries\n• News and current affairs\n• Comedy and film clips\n• Church services, tai chi, gentle exercise classes\n• Family videos (your relatives may have shared family events here)\n\n✅ Creating a Free YouTube Account:\nYou can watch everything without an account. Creating a free account (using a Google account) lets you:\n• Subscribe to channels you enjoy (they appear in your 'Subscriptions' feed)\n• Save videos to a 'Watch Later' list\n• Like videos to help find them again",
+      "tips": [
+        "You do not need to create an account to watch YouTube — just browse and enjoy.",
+        "The YouTube algorithm learns what you enjoy and suggests similar videos on your home page.",
+        "Adjust playback speed: click the Settings gear icon during a video and choose 'Playback Speed' — 0.75x is slower and clearer for instructional videos."
+      ]
+    },
+    {
+      "id": "streaming-lesson-4",
+      "title": "Setting Up Netflix or Amazon Prime",
+      "difficulty": 2,
+      "content": "Paid streaming services offer vast libraries of exclusive films and TV series. Here's how to get started.\n\n🎬 Netflix:\n1. Go to netflix.com and click 'Sign Up'\n2. Choose a plan (Standard with adverts is cheapest)\n3. Create an account with your email and a password\n4. Enter your payment details (card or PayPal)\n5. Download the Netflix app on your TV, tablet, or phone\n6. Sign in with your email and password\n\n📦 Amazon Prime Video:\n• Included free with an Amazon Prime subscription (also includes free delivery)\n• Or subscribe to Prime Video alone for £8.99/month\n• Access at primevideo.com or via the Prime Video app\n\n⚙️ Useful Features on Both:\n• Search — find specific films or actors\n• Categories — browse by genre (Drama, Comedy, Documentary, etc.)\n• My List/Watchlist — save programmes to watch later\n• Continue Watching — picks up exactly where you left off\n• Multiple Profiles — each family member can have their own personalised profile\n• Download for offline — watch without internet later (great for travel)\n\n💡 Tips for Choosing:\n• Start with free services (iPlayer, YouTube) before subscribing to paid ones\n• Cancel any trial before the billing date if you don't wish to continue — set a reminder!\n• Most plans allow streaming on more than one device at a time",
+      "tips": [
+        "Set a calendar reminder for the day before your free trial ends if you want to cancel.",
+        "Create separate profiles for different household members so each gets personalised recommendations.",
+        "Both Netflix and Prime Video let you adjust subtitles and audio description for accessibility."
+      ]
+    },
+    {
+      "id": "streaming-lesson-5",
+      "title": "Safe Streaming and Avoiding Scams",
+      "difficulty": 3,
+      "content": "Streaming is generally safe, but there are scams and pitfalls to be aware of.\n\n🚨 Fake Streaming Websites:\nSome websites claim to offer free films and TV but are illegal or malicious. Signs:\n• They have an unknown address (not iPlayer, Netflix, Amazon, etc.)\n• They ask you to install software or plugins\n• They ask for payment details for something that should be free\n• They play ads that are inappropriate or scary\n\nAlways use official services — bbc.co.uk/iplayer, netflix.com, primevideo.com, channel4.com, itv.com.\n\n📧 Fake Subscription Emails:\n• 'Your Netflix account has been suspended — update your payment details'\n• These are phishing emails — go directly to netflix.com, never via a link in an email\n\n💳 Subscription Management:\nMake a note of every streaming subscription you sign up for:\n• Service name\n• Cost per month\n• Date of renewal (when the money leaves your account)\nCancel anything you no longer watch — many people forget active subscriptions.\n\n👨‍👩‍👧 Account Sharing:\nNetflix and some other services now restrict account sharing outside the household. Only share with people in your home.\n\n🔊 Audio Description and Subtitles:\nVirtually all streaming platforms offer subtitles and audio description (a narrator describes what's happening on screen) — look for the accessibility settings during playback.",
+      "tips": [
+        "Only ever stream from official websites and apps — never from a link sent in an email.",
+        "Keep a simple list of your subscriptions and their monthly costs — it's very easy to forget ones that aren't used.",
+        "Audio description and subtitles are available on all major platforms and make a significant difference to enjoyment."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "streaming-q1",
+      "question": "Which of these streaming services is completely FREE to use in the UK (with a TV licence)?",
+      "options": [
+        { "label": "Netflix", "isCorrect": false },
+        { "label": "Disney+", "isCorrect": false },
+        { "label": "BBC iPlayer", "isCorrect": true },
+        { "label": "Amazon Prime Video", "isCorrect": false }
+      ],
+      "explanation": "BBC iPlayer is free to access for anyone with a valid UK TV licence. It includes all BBC channels live and thousands of programmes to watch on demand."
+    },
+    {
+      "id": "streaming-q2",
+      "question": "You want to watch a documentary about garden birds. Which free service is best for finding video content on this topic?",
+      "options": [
+        { "label": "Netflix", "isCorrect": false },
+        { "label": "YouTube", "isCorrect": true },
+        { "label": "Amazon Prime", "isCorrect": false },
+        { "label": "Disney+", "isCorrect": false }
+      ],
+      "explanation": "YouTube has an enormous range of free videos on virtually any topic — including nature documentaries, how-to guides, music, and much more. No subscription needed."
+    },
+    {
+      "id": "streaming-q3",
+      "question": "You receive an email saying your Netflix account is suspended and to click a link to update payment details. What should you do?",
+      "options": [
+        { "label": "Click the link and update your card details", "isCorrect": false },
+        { "label": "Do not click — go directly to netflix.com yourself to check your account", "isCorrect": true },
+        { "label": "Reply to the email with your card number", "isCorrect": false },
+        { "label": "Call Netflix using a number in the email", "isCorrect": false }
+      ],
+      "explanation": "This is a phishing scam. Never click links in emails claiming to be from streaming services. Always type the website address directly (netflix.com) to check your account status."
+    },
+    {
+      "id": "streaming-q4",
+      "question": "What feature allows you to read on-screen text of what characters are saying?",
+      "options": [
+        { "label": "Audio description", "isCorrect": false },
+        { "label": "Subtitles (or closed captions)", "isCorrect": true },
+        { "label": "Narrator mode", "isCorrect": false },
+        { "label": "Transcript view", "isCorrect": false }
+      ],
+      "explanation": "Subtitles (or closed captions) display the spoken dialogue as text on-screen. They are available on virtually all streaming platforms and are especially helpful if you find dialogue hard to hear."
+    },
+    {
+      "id": "streaming-q5",
+      "question": "For how many days after broadcast are most BBC programmes available on iPlayer?",
+      "options": [
+        { "label": "7 days", "isCorrect": false },
+        { "label": "14 days", "isCorrect": false },
+        { "label": "30 days", "isCorrect": true },
+        { "label": "365 days", "isCorrect": false }
+      ],
+      "explanation": "Most BBC programmes are available on iPlayer for 30 days after their original broadcast. Some popular series stay longer — and BBC Sounds (for radio) often keeps programmes for longer too."
+    },
+    {
+      "id": "streaming-q6",
+      "question": "You signed up for a free trial of a streaming service. How should you avoid being charged after the trial period?",
+      "options": [
+        { "label": "Cancel immediately after signing up so you can still watch during the trial", "isCorrect": false },
+        { "label": "Set a reminder and cancel the day before the trial ends if you don't want to continue", "isCorrect": true },
+        { "label": "Use a different email address to sign up again for another trial", "isCorrect": false },
+        { "label": "Remove the app from your phone — this cancels the subscription", "isCorrect": false }
+      ],
+      "explanation": "Free trials automatically convert to paid subscriptions. Set a calendar reminder for 1 day before the trial ends and cancel through the service's account settings (not by deleting the app). Cancelling right after signup still lets you use the full trial period on most services."
+    }
+  ]
+}

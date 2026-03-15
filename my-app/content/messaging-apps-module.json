@@ -1,0 +1,131 @@
+{
+  "id": "messaging-apps-module",
+  "title": "Messaging Apps",
+  "description": "Send text messages, photos, and voice notes to family and friends using WhatsApp and more.",
+  "icon": "💬",
+  "lessons": [
+    {
+      "id": "messaging-lesson-1",
+      "title": "What are Messaging Apps?",
+      "difficulty": 1,
+      "content": "Messaging apps let you send instant written messages, photos, voice notes, and videos to anyone in the world — usually for free using Wi-Fi.\n\n📱 Popular Messaging Apps:\n• WhatsApp — the most popular in the UK. Free. Works on any phone. Perfect for family groups.\n• iMessage — built into iPhones. Free between Apple devices.\n• Facebook Messenger — chat with Facebook friends.\n• Telegram — very similar to WhatsApp, with some extra features.\n• Signal — focused on privacy and security.\n\nFor most seniors in the UK, WhatsApp is the most useful because nearly everyone — of all ages — already uses it.\n\n✅ What can you do with WhatsApp?\n• Send text messages — like texts but free\n• Make voice calls (like a phone call, free over Wi-Fi)\n• Make video calls (see each other's faces, free over Wi-Fi)\n• Send photos, videos, and voice notes\n• Create group chats with family or friends\n• Share your location with family if you need help\n• Send documents and PDFs\n\n💡 vs Normal Text (SMS):\nNormal texts cost money (part of your phone plan). WhatsApp messages use the internet (free on Wi-Fi) — a huge advantage especially for international contacts.",
+      "tips": [
+        "WhatsApp is free on Wi-Fi — you can message and call family abroad at no extra cost.",
+        "Voice notes are great if typing is difficult — hold the microphone button, speak, and release to send.",
+        "WhatsApp is encrypted end-to-end, meaning only you and the recipient can read your messages."
+      ]
+    },
+    {
+      "id": "messaging-lesson-2",
+      "title": "Setting Up WhatsApp",
+      "difficulty": 1,
+      "content": "WhatsApp is free to download and easy to set up. You will need a smartphone with a phone number.\n\n⚙️ Setting Up WhatsApp:\n1. Open the App Store (iPhone) or Play Store (Android)\n2. Search for 'WhatsApp' — look for the official green app with a phone icon\n3. Tap 'Install' or 'Get' — it's free\n4. Open WhatsApp and tap 'Agree and Continue'\n5. Enter your mobile phone number including country code (+44 for UK, drop the first 0 of your number)\n6. WhatsApp sends a 6-digit verification code to your phone by text — enter it\n7. Enter your name and optionally add a profile photo\n8. WhatsApp automatically finds which of your phone contacts also use WhatsApp\n\n👥 WhatsApp will show your contacts who use it:\nYou do not need to 'add' them separately — they appear automatically if you have their number saved.\n\n📸 Setting a Profile Photo:\n• Tap the three dots (⋮) in the top right > Settings > tap your profile photo area\n• Choose 'Take Photo' or 'Upload from Gallery'\n• This helps family and friends recognise you\n\n🔔 Notifications:\nWhatsApp will ask to send you notifications — allow this so you see new messages arrive.",
+      "tips": [
+        "Your profile photo is only visible to your contacts — not to strangers.",
+        "If you don't get the verification code by text within a minute, tap 'Call Me' to receive it by phone call.",
+        "Once set up, WhatsApp automatically stays logged in — you don't need to sign in each time."
+      ]
+    },
+    {
+      "id": "messaging-lesson-3",
+      "title": "Sending Messages, Photos, and Voice Notes",
+      "difficulty": 1,
+      "content": "Once WhatsApp is set up, messaging is simple.\n\n💬 Sending a Text Message:\n1. Open WhatsApp and tap on a contact's name\n2. Tap in the message box at the bottom\n3. Type your message using the keyboard\n4. Tap the blue send arrow ➤ to send\n\nYou will see:\n• One grey tick ✓ — message sent\n• Two grey ticks ✓✓ — message delivered to their phone\n• Two blue ticks ✓✓ — message has been read\n\n📸 Sending a Photo:\n1. In a chat, tap the paperclip 📎 or the camera icon 📷\n2. Choose 'Gallery' to pick an existing photo, or 'Camera' to take a new one\n3. Add a caption if you like, then tap send\n\n🎙️ Sending a Voice Note:\nPerfect if typing is difficult!\n1. In a chat, hold your finger on the microphone icon 🎤 (bottom right)\n2. Speak your message\n3. Release your finger to send automatically\n4. Or slide to the left to cancel without sending\n\n😊 Using Emoji:\nTap the smiley face icon on the keyboard to add emoji (small pictures like 😊❤️👍). They add warmth and personality to messages.",
+      "tips": [
+        "Voice notes are a wonderful alternative to typing — many people prefer them for longer messages.",
+        "You can see a preview of a photo before sending — check it's the right one before tapping send.",
+        "Double tap on any message you received to react to it with an emoji — a quick way to say 'I saw this!'"
+      ]
+    },
+    {
+      "id": "messaging-lesson-4",
+      "title": "WhatsApp Group Chats",
+      "difficulty": 2,
+      "content": "Group chats let multiple people chat together in one place — perfect for family coordination.\n\n👨‍👩‍👧‍👦 Creating a Group Chat:\n1. Open WhatsApp\n2. Tap the three dots (⋮) > 'New Group' (Android) OR tap the chat icon then 'New Group' (iPhone)\n3. Tap on the contacts you want to include\n4. Tap the green arrow ➤\n5. Give the group a name (e.g. 'The Smith Family')\n6. Optionally add a group photo\n7. Tap the green tick ✓ to create the group\n\n💬 Using a Group Chat:\n• Messages you send appear for everyone in the group\n• Everyone's replies appear in the same chat thread\n• You can see who said what (their name appears above their message)\n\n📢 Group Admins:\nWhen you create a group, you become the admin. You can:\n• Add or remove members\n• Change the group name or photo\n• Decide who can send messages (useful for announcement-only groups)\n\n🔕 Muting a Group:\nIf a group is too busy, tap the group name at the top > 'Mute Notifications' — you still receive messages but your phone won't ring for each one.\n\n🎉 Popular Family Uses:\n• Sharing holiday photos\n• Organising family events and Christmas plans\n• Sharing news and milestones\n• Coordinating care for a family member",
+      "tips": [
+        "Mute busy groups so your phone isn't constantly notifying you — you can still read messages at your leisure.",
+        "Group chats can have up to 1,024 members — more than enough for even the largest family!",
+        "You can leave a group at any time: tap the group name > Scroll to bottom > 'Exit Group'."
+      ]
+    },
+    {
+      "id": "messaging-lesson-5",
+      "title": "Staying Safe on WhatsApp",
+      "difficulty": 3,
+      "content": "WhatsApp is very secure by design, but scams and unwanted contacts are still a risk.\n\n🚨 Common WhatsApp Scams:\n\n1. The 'Hello Mum/Dad' Scam:\nYou receive a message: 'Hi Mum, it's me, I've got a new phone — can you send me some money?\nThis is a scam. Always call your family member on their known number to verify before sending any money.\n\n2. Unknown Number Scams:\nStrangers message offering jobs, prizes, or investments. Ignore and block.\n\n3. Forwarded Misinformation:\nFalse news, health claims, or chain messages. Do not forward without verifying.\n\n4. Gift Card Scams:\nSomeone claiming to be a friend or authority figure asks you to buy gift cards. Always a scam.\n\n✅ Privacy Settings:\n1. Open WhatsApp > Settings > Privacy\n2. Set 'Last Seen' to 'My Contacts' — so strangers cannot see when you were last online\n3. Set 'Profile Photo' to 'My Contacts' — so only people you know see your photo\n4. Enable 'Advanced — Protect IP address in calls' to prevent callers seeing your approximate location\n\n🔒 Blocking Someone:\n• Open the chat > tap their name at the top > Scroll down > 'Block'\n• They cannot message you, call you, or see your status\n\n📵 Reporting Spam:\nTap the three dots in any chat > 'Report' — this sends information to WhatsApp without the person knowing.",
+      "tips": [
+        "If you receive 'Hello Mum/Dad', always call your child on their usual number before doing anything else.",
+        "Never send money, gift cards, or financial details to anyone via WhatsApp — regardless of who they claim to be.",
+        "Adjust your WhatsApp privacy settings so only your contacts can see your profile photo and last seen."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "messaging-q1",
+      "question": "What does it mean when your WhatsApp message shows two BLUE ticks ✓✓?",
+      "options": [
+        { "label": "The message has been sent from your phone", "isCorrect": false },
+        { "label": "The message has been delivered to the recipient's phone", "isCorrect": false },
+        { "label": "The message has been read by the recipient", "isCorrect": true },
+        { "label": "The recipient has replied", "isCorrect": false }
+      ],
+      "explanation": "One grey tick = sent. Two grey ticks = delivered to their phone. Two BLUE ticks = the recipient has opened and read your message."
+    },
+    {
+      "id": "messaging-q2",
+      "question": "You receive a WhatsApp from an unknown number: 'Hi Mum, I have a new phone, please send £300 urgently.' What should you do?",
+      "options": [
+        { "label": "Send the money — it sounds urgent and is your child", "isCorrect": false },
+        { "label": "Call your child on their known, saved number to verify before doing anything", "isCorrect": true },
+        { "label": "Ask them to send a selfie first, then send the money", "isCorrect": false },
+        { "label": "Send half the money to be safe", "isCorrect": false }
+      ],
+      "explanation": "This is the well-known 'Hello Mum/Dad' scam. Always verify by calling your child on their usual phone number — never send money based on a WhatsApp message from an unknown number."
+    },
+    {
+      "id": "messaging-q3",
+      "question": "How do you send a voice note on WhatsApp instead of typing?",
+      "options": [
+        { "label": "Type 'voice:' before your message", "isCorrect": false },
+        { "label": "Hold the microphone icon, speak, then release", "isCorrect": true },
+        { "label": "Tap the camera icon and hold it up to your mouth", "isCorrect": false },
+        { "label": "Call them instead — you cannot record voice notes", "isCorrect": false }
+      ],
+      "explanation": "Hold the microphone 🎤 icon in the bottom right of any chat window. Speak your message, then release your finger to send it automatically. Slide left to cancel."
+    },
+    {
+      "id": "messaging-q4",
+      "question": "A WhatsApp group is sending too many messages and your phone keeps notifying you. What is the best solution?",
+      "options": [
+        { "label": "Leave the group permanently", "isCorrect": false },
+        { "label": "Mute the group — you can still read messages without constant notifications", "isCorrect": true },
+        { "label": "Delete WhatsApp from your phone", "isCorrect": false },
+        { "label": "Block all group members", "isCorrect": false }
+      ],
+      "explanation": "Muting a group stops notification sounds while still delivering all messages — you can read them at your convenience. Tap the group name > Mute Notifications. You can choose to mute for a set time or forever."
+    },
+    {
+      "id": "messaging-q5",
+      "question": "Why is WhatsApp generally better than normal SMS texts for chatting with family abroad?",
+      "options": [
+        { "label": "WhatsApp messages are longer than texts", "isCorrect": false },
+        { "label": "WhatsApp uses the internet so international messages and calls are free", "isCorrect": true },
+        { "label": "WhatsApp is encrypted and texts are not", "isCorrect": false },
+        { "label": "WhatsApp has better emoji", "isCorrect": false }
+      ],
+      "explanation": "WhatsApp messages and calls use the internet (free on Wi-Fi) rather than the phone network. International SMS and phone calls can be very expensive. With WhatsApp, distance makes no difference to the cost."
+    },
+    {
+      "id": "messaging-q6",
+      "question": "How do you prevent strangers from seeing your WhatsApp profile photo?",
+      "options": [
+        { "label": "Remove your profile photo entirely", "isCorrect": false },
+        { "label": "In Settings > Privacy, set Profile Photo to 'My Contacts'", "isCorrect": true },
+        { "label": "Block everyone who is not family", "isCorrect": false },
+        { "label": "You cannot control who sees your profile photo", "isCorrect": false }
+      ],
+      "explanation": "Go to WhatsApp Settings > Privacy > Profile Photo > and change it to 'My Contacts'. This means only people you have saved in your contacts can see your photo — protecting your privacy from strangers."
+    }
+  ]
+}

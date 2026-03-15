@@ -1,0 +1,131 @@
+{
+  "id": "health-online-module",
+  "title": "Finding Health Info Online",
+  "description": "Use the internet to access reliable health information, book appointments, and understand your care.",
+  "icon": "🏥",
+  "lessons": [
+    {
+      "id": "health-lesson-1",
+      "title": "Finding Reliable Health Information",
+      "difficulty": 1,
+      "content": "The internet is a powerful tool for understanding your health — if you use the right sources.\n\n🌐 The Gold Standard — NHS Website (nhs.uk):\nThe NHS website is the most trusted source of health information in England. You can find:\n• Clear explanations of conditions (diabetes, arthritis, high blood pressure, etc.)\n• Information about medicines — what they do and common side effects\n• Symptoms checkers\n• Advice on when to see a GP vs when to call 111 vs when to call 999\n• Mental health support resources\n\n🔍 How to use it:\n1. Open your browser and go to www.nhs.uk\n2. Type your condition or symptom in the search bar\n3. Read the official NHS information\n\n📚 Other Trusted Sources:\n• Patient.info — written in plain English for patients\n• NICE.org.uk — clinical guidelines (more technical but authoritative)\n• NHS 111 Online (111.nhs.uk) — interactive symptom checker that advises on what to do\n• Reputable charities: Diabetes UK, British Heart Foundation, Age UK, Cancer Research UK\n\n🚩 Sources to be cautious of:\n• Forums and comment sections (anecdotal, unverified)\n• Websites selling supplements or treatments\n• Social media posts — even from well-meaning people",
+      "tips": [
+        "Save www.nhs.uk as a bookmark so it's always one click away.",
+        "NHS 111 Online (111.nhs.uk) is excellent for 'Is this serious enough to see a doctor?' questions.",
+        "Always tell your GP about anything significant you read online — they can confirm or correct it."
+      ]
+    },
+    {
+      "id": "health-lesson-2",
+      "title": "Booking GP Appointments Online",
+      "difficulty": 1,
+      "content": "Many GP surgeries now allow online appointment booking — no waiting on hold!\n\n📅 How to Book Online:\n\nOption 1 — Your GP Surgery's Website:\n1. Go to your practice's website (ask your surgery for the address or search '[surgery name] appointments')\n2. Look for 'Book Appointment' or 'Online Services'\n3. Log in or register for online access\n4. Choose an appointment type, date, and time\n5. Confirm your booking — you'll receive a confirmation email or text\n\nOption 2 — NHS App:\nThe NHS App (available free on Android and iPhone) lets you:\n• Book, view, and cancel GP appointments\n• Order repeat prescriptions\n• View your medical record (test results, medications, vaccinations)\n• Access your GP health record\n\nDownload: Search 'NHS App' in the Google Play Store or Apple App Store.\n\nOption 3 — Patient Access:\nPatientaccess.com is another service used by many GP practices for online booking.\n\n💬 Online Consultation:\nMany surgeries now offer online consultation tools (like eConsult or AccuRx). You fill in a short form about your symptoms and a clinician responds — often by end of day.",
+      "tips": [
+        "Register for your GP's online services in advance — before you need an appointment — so it's ready when you do.",
+        "The NHS App is particularly useful for ordering repeat prescriptions without a phone call.",
+        "If you struggle with online booking, most surgeries still have phone booking — and some staff can help you register for online access."
+      ]
+    },
+    {
+      "id": "health-lesson-3",
+      "title": "Using the NHS App",
+      "difficulty": 2,
+      "content": "The NHS App is an official, secure way to manage your healthcare on your smartphone.\n\n📲 Setting Up the NHS App:\n1. Download it free from the App Store (iPhone) or Play Store (Android)\n2. Open the app and tap 'Continue'\n3. Enter your NHS number (on your medical card, vaccination records, or ask your GP surgery)\n4. Verify your identity — the app uses NHS Login which requires proof of identity (photo ID or GP surgery details)\n5. Once verified, you have full access\n\n🏥 What the NHS App Can Do:\n✅ Book, manage, and cancel GP appointments\n✅ Order repeat prescriptions and see which pharmacy will receive them\n✅ View your summary medical record (conditions, medications, allergies)\n✅ See your COVID vaccination status and other records\n✅ Access NHS 111 online service\n✅ Set up organ donation preferences\n✅ Share your health records with a specialist if referred\n\n🔐 Is it Secure?\nYes — the NHS App uses NHS Login, a government-grade secure authentication system. Your health data is protected by the same standards used across NHS systems.\n\n📞 If You Need Help Setting Up:\nCall your GP surgery — many now have staff who can help patients set up the NHS App.",
+      "tips": [
+        "Your NHS number is usually on any letter from the NHS — ask your surgery if you can't find it.",
+        "The NHS App is particularly valuable for viewing your test results before a follow-up appointment.",
+        "Once set up, the NHS App is much faster than calling your surgery for repeat prescriptions."
+      ]
+    },
+    {
+      "id": "health-lesson-4",
+      "title": "Using NHS 111 Online",
+      "difficulty": 2,
+      "content": "NHS 111 Online is a free, confidential service to help you decide what to do when you feel unwell but do not think it is an emergency.\n\n🌐 How to Access:\nGo to 111.nhs.uk on any device.\n\n💬 How It Works:\n1. Click 'Start' and answer simple questions about your symptoms\n2. The system adapts its questions based on your answers\n3. At the end, you receive clear advice:\n   • Self-care at home\n   • Book a GP appointment\n   • Go to a pharmacy (a pharmacist can advise and prescribe for many conditions now)\n   • Visit an Urgent Treatment Centre (UTC)\n   • Go to A&E\n   • Call 999\n\n📞 NHS 111 by Phone:\nIf you prefer to speak to someone, call 111 (free from any phone). A trained health adviser will ask the same type of questions.\n\n🕐 When to Use 111 vs 999:\n• 111 — For urgent but not life-threatening situations\n• 999 — ONLY for genuine emergencies: chest pain, stroke symptoms (face drooping, arm weakness, speech difficulty), unconsciousness, severe bleeding, breathing difficulties\n\n💊 Pharmacies — An Underused Resource:\nYour local pharmacist can treat many minor ailments without an appointment (earache, sore throat, UTIs, skin rashes, etc.) under the NHS Pharmacy First scheme.",
+      "tips": [
+        "Use 111.nhs.uk before calling 111 by phone — it's often faster and available 24/7.",
+        "Pharmacists can now treat many conditions under 'Pharmacy First' without you needing a GP appointment.",
+        "For chest pain, suspected stroke, or loss of consciousness — always call 999, never 111."
+      ]
+    },
+    {
+      "id": "health-lesson-5",
+      "title": "Staying Safe with Health Information Online",
+      "difficulty": 3,
+      "content": "While the internet offers wonderful health resources, there are important safety considerations to be aware of.\n\n⚠️ The Dangers of Unreliable Information:\n• Symptom checkers on unofficial sites can cause unnecessary anxiety or (worse) false reassurance\n• Mixing or stopping prescribed medications based on something you read online can be dangerous\n• Supplements advertised online may interact with your medications\n\n❌ Misinformation — How to Spot It:\n• Claims that are 'cures' or 'DOCTORS DON'T WANT YOU TO KNOW'\n• Testimonials without medical evidence\n• Requests to buy a product after presenting scary health information\n• Information contradicting NHS or NICE guidance without citing peer-reviewed research\n\n🔒 Your Health Data Online — Stay Private:\n• Only enter health information on trusted NHS, official GP portal, or reputable charity sites\n• Be very cautious about health apps that request access to your location or contacts\n• Check any app's privacy policy before entering sensitive health data\n• Never post detailed health information publicly on social media\n\n💬 Always Tell Your Doctor:\n• Share anything significant you found online with your GP — they can confirm accuracy\n• If you've taken a supplement or changed any habit based on something you read, tell your GP\n• Do NOT stop prescribed medication without consulting your doctor — even if you read something online about side effects\n\n🤝 Telehealth — Remote GP Consultations:\nMany GPs now offer video or phone consultations. These are safe, confidential, and increasingly common — particularly for follow-up appointments.",
+      "tips": [
+        "Never stop prescribed medication because of something you read online — talk to your GP first.",
+        "Your GP is always your best resource — they can give personalised advice that no website can.",
+        "Health apps from the NHS App Library (apps.beta.nhs.uk) have been vetted for safety and reliability."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "health-q1",
+      "question": "Which website is the most reliable source of health information for people in England?",
+      "options": [
+        { "label": "wikipedia.org", "isCorrect": false },
+        { "label": "healthforum.net", "isCorrect": false },
+        { "label": "nhs.uk", "isCorrect": true },
+        { "label": "google.com", "isCorrect": false }
+      ],
+      "explanation": "The NHS website (nhs.uk) is the official patient-facing health website for England, written by medical professionals and regularly updated to reflect current clinical guidelines."
+    },
+    {
+      "id": "health-q2",
+      "question": "What can you use the NHS App for?",
+      "options": [
+        { "label": "Booking private hospital appointments", "isCorrect": false },
+        { "label": "Booking GP appointments and ordering repeat prescriptions", "isCorrect": true },
+        { "label": "Claiming benefits and pension payments", "isCorrect": false },
+        { "label": "Watching NHS health education videos", "isCorrect": false }
+      ],
+      "explanation": "The free NHS App lets you book and manage GP appointments, order repeat prescriptions, view your medical record, and access your NHS 111 service — all from your smartphone."
+    },
+    {
+      "id": "health-q3",
+      "question": "When should you call 999 rather than 111?",
+      "options": [
+        { "label": "When you have a sore throat and feel quite unwell", "isCorrect": false },
+        { "label": "When you are unsure whether you need to see a doctor", "isCorrect": false },
+        { "label": "For life-threatening emergencies like chest pain, stroke symptoms, or unconsciousness", "isCorrect": true },
+        { "label": "Any time outside GP opening hours", "isCorrect": false }
+      ],
+      "explanation": "999 is ONLY for genuine life-threatening emergencies. 111 (or 111.nhs.uk) is for urgent but non-life-threatening situations where you need help deciding what to do."
+    },
+    {
+      "id": "health-q4",
+      "question": "You read online that a supplement can cure your arthritis. What should you do before taking it?",
+      "options": [
+        { "label": "Buy it immediately — it sounds very effective", "isCorrect": false },
+        { "label": "Ask your GP first — supplements can interact with prescribed medications", "isCorrect": true },
+        { "label": "Check social media to see if others agree", "isCorrect": false },
+        { "label": "Stop taking your prescribed medication and try the supplement instead", "isCorrect": false }
+      ],
+      "explanation": "Supplements can interact dangerously with prescribed medications. Always consult your GP before taking anything new — this is especially important for complex conditions like arthritis."
+    },
+    {
+      "id": "health-q5",
+      "question": "A website promises a supplement that 'DOCTORS DON'T WANT YOU TO KNOW ABOUT' can cure your condition. This is most likely:",
+      "options": [
+        { "label": "A genuine medical breakthrough intentionally suppressed", "isCorrect": false },
+        { "label": "A misleading or fraudulent health claim designed to sell products", "isCorrect": true },
+        { "label": "Information from a whistleblower doctor", "isCorrect": false },
+        { "label": "Worth checking with your GP immediately", "isCorrect": false }
+      ],
+      "explanation": "Sensational headlines like 'Doctors don't want you to know' are hallmarks of health misinformation sites trying to sell unproven products. Trust NHS, NICE, and reputable charity sources instead."
+    },
+    {
+      "id": "health-q6",
+      "question": "Under the NHS Pharmacy First scheme, which of these can your local pharmacist now treat without a GP appointment?",
+      "options": [
+        { "label": "Heart disease and diabetes management", "isCorrect": false },
+        { "label": "Minor ailments like earache, sore throat, or urinary tract infections (UTIs)", "isCorrect": true },
+        { "label": "Cancer screening and diagnosis", "isCorrect": false },
+        { "label": "Prescribing long-term controlled medications", "isCorrect": false }
+      ],
+      "explanation": "Under Pharmacy First, pharmacists can assess and treat many common conditions — including earache, sore throat, sinus infection, UTI, impetigo, shingles, and infected insect bites — without needing a GP appointment."
+    }
+  ]
+}

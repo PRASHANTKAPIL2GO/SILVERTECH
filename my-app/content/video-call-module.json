@@ -1,0 +1,131 @@
+{
+  "id": "video-call-module",
+  "title": "Making Video Calls",
+  "description": "Stay connected with family and friends through video calls.",
+  "icon": "📹",
+  "lessons": [
+    {
+      "id": "video-lesson-1",
+      "title": "What is a Video Call?",
+      "difficulty": 1,
+      "content": "A video call lets you see and hear someone on your screen, just like being in the same room — even if they are thousands of miles away!\n\nPopular video calling apps include:\n• WhatsApp — great for calling family and friends on mobile\n• Zoom — widely used for group meetings and family gatherings\n• FaceTime — built into Apple devices (iPhone, iPad, Mac)\n• Google Meet — works on any device, no app needed on a computer\n• Skype — one of the oldest and most reliable options\n\nAll you need is:\n✅ A smartphone, tablet, or computer\n✅ An internet connection (Wi-Fi is best)\n✅ A camera (most modern devices have one built in)\n✅ A microphone (also usually built in)\n\nVideo calls are free when using Wi-Fi, so you can chat for as long as you like without worrying about cost.",
+      "tips": [
+        "Video calls are free when using Wi-Fi — connect to home broadband before calling.",
+        "You can wave, smile, and show things — just like a real visit!",
+        "The person you call must also have the same app installed on their device."
+      ]
+    },
+    {
+      "id": "video-lesson-2",
+      "title": "Making Your First Video Call",
+      "difficulty": 1,
+      "content": "Let's make your first video call on WhatsApp:\n\n1. Open WhatsApp on your phone\n2. Tap on a contact's name (someone you know)\n3. Tap the video camera icon at the top right\n4. Wait for them to answer — you will hear a ringing sound\n5. Speak clearly and look at the camera!\n\nDuring the call:\n• Tap the microphone icon 🎤 to mute/unmute yourself\n• Tap the camera icon 📷 to turn your camera on/off\n• Tap the red phone button 📵 to end the call\n\n💡 If using Zoom:\n1. Open Zoom and tap 'New Meeting' to start, or 'Join' to enter someone else's meeting\n2. You will be given a Meeting ID and Passcode to share with others\n3. Others can join by entering the ID and passcode in their own Zoom app",
+      "tips": [
+        "Hold your device steady or prop it up on a stand or book for comfort.",
+        "Make sure your face is well-lit — sit near a window or with a lamp in front of you.",
+        "Speak normally — you do not need to shout. The microphone picks up your voice clearly."
+      ]
+    },
+    {
+      "id": "video-lesson-3",
+      "title": "Group Video Calls",
+      "difficulty": 2,
+      "content": "Did you know you can have a video call with more than one person at the same time? This is called a group video call.\n\n👨‍👩‍👧‍👦 Great for:\n• Family gatherings when everyone lives far away\n• Catching up with a group of friends\n• Joining a community or club meeting online\n\nHow to do a group call on WhatsApp:\n1. Open WhatsApp and go to a group chat (or create one with family)\n2. Tap the video icon at the top right\n3. Select the people you want to call from the group\n4. Everyone will receive a call invitation and can join\n\nUsing Zoom for groups:\n1. Start or schedule a Zoom meeting\n2. Click 'Invite' and share the Meeting ID and Passcode with your family or friends\n3. Everyone clicks 'Join Meeting' and enters the details\n4. You can see everyone in a grid on screen\n\n⚙️ Controls during a group call:\n• Mute yourself when not speaking — it reduces background noise for everyone\n• Use 'Gallery View' in Zoom to see all participants on screen at once",
+      "tips": [
+        "Mute yourself when you are not speaking — it makes the call clearer for everyone.",
+        "In Zoom, ask the host to enable 'Spotlight' so everyone can see the main speaker clearly.",
+        "Try a test call with one family member first before attempting a large group call."
+      ]
+    },
+    {
+      "id": "video-lesson-4",
+      "title": "Troubleshooting Common Problems",
+      "difficulty": 2,
+      "content": "Sometimes things do not work perfectly — here are the most common problems and how to fix them:\n\n📵 'They cannot hear me'\n• Check your microphone is not muted (look for a crossed-out microphone icon)\n• Make sure the app has permission to use your microphone (check your phone settings)\n\n📷 'They cannot see me'\n• Check your camera is turned on in the call\n• Make sure the app has permission to use your camera (check Settings > Apps > WhatsApp/Zoom > Permissions)\n\n🔊 'I cannot hear them'\n• Turn up the volume on your device using the side buttons\n• Check you have not plugged in headphones by accident\n• Make sure your phone is not on silent mode\n\n📡 'The picture keeps freezing'\n• Move closer to your Wi-Fi router\n• Ask others in your home to pause streaming video while you call — that frees up internet speed\n• Try closing other apps running in the background\n\n🔄 'The app is not working'\n• Close the app fully and reopen it\n• Check for an app update in the App Store or Play Store\n• Restart your device — this fixes most problems!",
+      "tips": [
+        "If all else fails, hang up and call again — reconnecting often solves freezing issues.",
+        "Keep your device charged during long calls so it doesn't run out of battery.",
+        "Make sure your app is up to date — old versions can cause connection problems."
+      ]
+    },
+    {
+      "id": "video-lesson-5",
+      "title": "Video Call Safety and Privacy",
+      "difficulty": 3,
+      "content": "Video calls are wonderful, but it's important to stay safe:\n\n🔒 Privacy Rules:\n• Only accept calls from people you know — decline or ignore calls from unknown numbers\n• Be aware of what is visible behind you — keep sensitive documents out of the background\n• Do not share personal documents, banking information, or identification on screen — ever\n\n⚠️ Watch out for:\n• Strangers who want to video call shortly after meeting you online\n• Callers who claim to be officials asking to see documents or bank details via video\n• Anyone who asks to record your call — legitimate people do not need to record private conversations\n• 'Deepfake' scams — criminals can now create convincing fake video of people using AI. Be suspicious of unusual requests even from known-looking faces.\n\n✅ Good Habits:\n• Use video calls in a comfortable, private space\n• End the call immediately if you feel uncomfortable — for any reason, no explanation needed\n• Tell a trusted person if a call felt suspicious or if you were asked for personal information\n• Use apps that encrypt calls (WhatsApp, FaceTime, and Signal offer end-to-end encryption)\n\n🔐 Zoom Security:\n• Always use a Passcode for Zoom meetings to prevent strangers from joining\n• Use the 'Waiting Room' feature so you can admit people one by one",
+      "tips": [
+        "You can always end or decline a call — no excuse or explanation is needed.",
+        "Keep your camera off until you are sure who is calling before turning it on.",
+        "No official organisation — government, police, or bank — requires a video call to verify your identity."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "video-q1",
+      "question": "Which of these apps can you use to make a video call?",
+      "options": [
+        { "label": "Microsoft Word", "isCorrect": false },
+        { "label": "WhatsApp", "isCorrect": true },
+        { "label": "Google Maps", "isCorrect": false },
+        { "label": "Netflix", "isCorrect": false }
+      ],
+      "explanation": "WhatsApp is a popular app for both voice and video calls. Other great options include Zoom, FaceTime, Google Meet, and Skype."
+    },
+    {
+      "id": "video-q2",
+      "question": "During a video call, where should you look to appear as though you are looking at the person?",
+      "options": [
+        { "label": "At your own face on the screen", "isCorrect": false },
+        { "label": "At the camera lens on your device", "isCorrect": true },
+        { "label": "Down at the floor", "isCorrect": false },
+        { "label": "Off to the side", "isCorrect": false }
+      ],
+      "explanation": "Looking directly at the camera makes it appear to the other person that you are making eye contact with them — it feels much more personal and natural."
+    },
+    {
+      "id": "video-q3",
+      "question": "A stranger you met online wants to do a video call and asks you to show your bank statement. What should you do?",
+      "options": [
+        { "label": "Show them — it is just to verify your identity", "isCorrect": false },
+        { "label": "End the call immediately and do not share any documents", "isCorrect": true },
+        { "label": "Ask them to call back later then show them", "isCorrect": false },
+        { "label": "Take a photo of the statement and send it instead", "isCorrect": false }
+      ],
+      "explanation": "Legitimate people never need to see your financial documents over video call. This is a common scam technique. End the call and, if worried, report the account to the platform."
+    },
+    {
+      "id": "video-q4",
+      "question": "Your video keeps freezing during a call. Which of these is the BEST first step to try?",
+      "options": [
+        { "label": "Buy a new phone", "isCorrect": false },
+        { "label": "Move closer to your Wi-Fi router", "isCorrect": true },
+        { "label": "Turn your camera off permanently", "isCorrect": false },
+        { "label": "Shout louder so they can hear you", "isCorrect": false }
+      ],
+      "explanation": "A weak Wi-Fi signal is the most common cause of video freezing. Moving closer to your router improves the signal strength and usually fixes the problem immediately."
+    },
+    {
+      "id": "video-q5",
+      "question": "You want to have a video call with your daughter, son, and grandchildren all at the same time. Which type of call do you need?",
+      "options": [
+        { "label": "A regular one-to-one video call", "isCorrect": false },
+        { "label": "A group video call", "isCorrect": true },
+        { "label": "A phone call", "isCorrect": false },
+        { "label": "An email", "isCorrect": false }
+      ],
+      "explanation": "A group video call allows three or more people to see and hear each other at the same time. WhatsApp, Zoom, and FaceTime all support group video calls."
+    },
+    {
+      "id": "video-q6",
+      "question": "Which of these should you do to make your Zoom meeting more secure?",
+      "options": [
+        { "label": "Share your Meeting ID publicly on social media", "isCorrect": false },
+        { "label": "Use a Passcode and the Waiting Room feature", "isCorrect": true },
+        { "label": "Leave the camera off the entire time", "isCorrect": false },
+        { "label": "Allow anyone with the link to join without restriction", "isCorrect": false }
+      ],
+      "explanation": "Using a Passcode prevents strangers from guessing your meeting ID and joining. The Waiting Room lets you approve each participant before they enter — both features keep your meetings private and safe."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "social-media-module",
+  "title": "Social Media Basics",
+  "description": "Learn to use Facebook and other social platforms safely and enjoyably.",
+  "icon": "📱",
+  "lessons": [
+    {
+      "id": "social-lesson-1",
+      "title": "What is Social Media?",
+      "difficulty": 1,
+      "content": "Social media are websites and apps that let you share posts, photos, and messages with people all over the world.\n\nThe most popular platforms include:\n• Facebook — the most popular for seniors; great for connecting with family and friends\n• Instagram — mainly for sharing photos and videos\n• YouTube — for watching and sharing videos\n• X (formerly Twitter) — short messages and news updates\n• WhatsApp — messaging and calls (covered in a separate module)\n\nYou do not need to use all of them! Many seniors find Facebook alone is more than enough.\n\nWhat can you do on social media?\n✅ See photos and updates from family and friends\n✅ Share your own photos and milestones\n✅ Join groups of people with shared interests (gardening, cooking, local events)\n✅ Watch videos and read news\n✅ Reconnect with old friends and classmates",
+      "tips": [
+        "You choose what you share — you do not have to post anything you're not comfortable with.",
+        "Social media works on phones, tablets, and computers.",
+        "All major social media platforms are free to join and use."
+      ]
+    },
+    {
+      "id": "social-lesson-2",
+      "title": "Setting Up a Facebook Account",
+      "difficulty": 1,
+      "content": "Facebook is the most popular social media platform and is excellent for keeping in touch with family.\n\nHow to create a Facebook account:\n1. Go to www.facebook.com on your computer or tablet\n2. Click 'Create new account'\n3. Enter your first name, last name, email address (or phone number), date of birth, and gender\n4. Choose a password — make it something memorable but not obvious\n5. Click 'Sign Up'\n6. Facebook will send a confirmation code to your email — enter it to verify\n\nAfter signing up:\n• Add a profile photo — this helps friends and family recognise you\n• Search for family members by name and send them a 'Friend Request'\n• When they accept, you will see their posts and they will see yours\n\n📌 Your News Feed:\nThe main page (News Feed) shows posts from your friends and pages you follow, newest first.",
+      "tips": [
+        "Use your real name so family and old friends can find you easily.",
+        "Your date of birth can be hidden from others in your privacy settings.",
+        "You can set up Facebook with help from a family member if you get stuck."
+      ]
+    },
+    {
+      "id": "social-lesson-3",
+      "title": "Posting, Liking, and Commenting",
+      "difficulty": 1,
+      "content": "Interacting on Facebook is simple once you know the basics.\n\n📝 Making a Post:\n1. Go to your News Feed and click the 'What's on your mind?' box at the top\n2. Type your message\n3. Optionally add a photo by clicking the camera icon\n4. Click 'Post' when you are ready\n\n👍 Liking a Post:\nClick the 'Like' button (thumbs up 👍) under any post to show you enjoyed it. You can also choose from other reactions like ❤️ Love, 😂 Haha, 😮 Wow, 😢 Sad, or 😡 Angry.\n\n💬 Commenting:\nClick 'Comment' under a post to write a reply. This is a great way to respond to family photos!\n\n🔁 Sharing:\nClick 'Share' to pass someone else's post on to your own friends.\n\n📷 Sharing a Photo:\n1. Click 'What's on your mind?'\n2. Click the Photo/Video icon\n3. Choose a photo from your device\n4. Add a caption if you like, then click 'Post'",
+      "tips": [
+        "You can edit or delete your own posts at any time by clicking the three dots (⋯) on the post.",
+        "Reactions and comments are a lovely way to stay in touch — family really do appreciate them.",
+        "You can 'Like' posts without writing a comment if you prefer."
+      ]
+    },
+    {
+      "id": "social-lesson-4",
+      "title": "Privacy and Who Can See Your Posts",
+      "difficulty": 2,
+      "content": "Privacy is very important on social media. You control who can see what you share.\n\n🔒 Post Privacy Options:\nWhen making a post, you will see a dropdown that lets you choose:\n• 🌍 Public — anyone on the internet can see it\n• 👥 Friends — only people you have added as friends\n• 🔒 Only Me — only you can see it (useful for saving things privately)\n\nWe recommend using 'Friends' for most posts.\n\n⚙️ Account Privacy Settings:\n1. Click your profile picture, then 'Settings & Privacy'\n2. Go to 'Privacy Checkup' — Facebook guides you through all privacy options step by step\n3. You can control: who can find you, who can see your friends list, who can see past posts\n\n📛 Things to Avoid Sharing Publicly:\n• Your home address\n• Phone number\n• When your house is empty ('Going on holiday tomorrow!')\n• Financial information\n• Your birthday (can be used to guess security questions)",
+      "tips": [
+        "Run the Facebook 'Privacy Checkup' — it takes just a few minutes and greatly improves your safety.",
+        "You can go back and change the privacy of any past post by clicking the three dots on it.",
+        "It's fine to keep your profile simple — you don't need to fill in every detail."
+      ]
+    },
+    {
+      "id": "social-lesson-5",
+      "title": "Staying Safe on Social Media",
+      "difficulty": 3,
+      "content": "Social media is mostly positive — but knowing the risks helps you enjoy it safely.\n\n🚨 Friend Request Safety:\n• Only accept friend requests from people you actually know\n• Fake accounts (called 'catfish') pretend to be someone else to gain your trust\n• If you receive a request from a 'friend' you are already connected to, it may be a fake copy — check with your real friend\n\n💬 Suspicious Messages:\n• Be very cautious of direct messages from strangers offering prizes, investments, or asking for help\n• Never send money to someone you met only on social media\n• Report suspicious accounts using the three-dot menu on their profile\n\n🔐 Account Security:\n• Use a strong, unique password for your social media accounts\n• Enable two-factor authentication (Settings > Security > Two-Factor)\n• Never share your login details, even with someone claiming to be 'Facebook Support'\n\n😟 Online Unkindness:\n• You can 'Unfollow' someone to stop seeing their posts without removing them as a friend\n• You can 'Block' someone to stop all contact\n• If someone is harassing you, report them to Facebook using the three-dot menu",
+      "tips": [
+        "Facebook will never ask for your password in a message — that is always a scammer.",
+        "If something feels wrong about an account or message, trust your instincts and report it.",
+        "You can take a break from social media any time — your account stays safe while you are away."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "social-q1",
+      "question": "Which social media platform is most popular among seniors for keeping in touch with family?",
+      "options": [
+        { "label": "TikTok", "isCorrect": false },
+        { "label": "Facebook", "isCorrect": true },
+        { "label": "Snapchat", "isCorrect": false },
+        { "label": "Reddit", "isCorrect": false }
+      ],
+      "explanation": "Facebook is the most widely used social platform among seniors due to its simple layout, family features, and group functionality. It's an excellent starting point."
+    },
+    {
+      "id": "social-q2",
+      "question": "You receive a friend request from someone with the same name as your best friend, but you are already friends with them on Facebook. What should you do?",
+      "options": [
+        { "label": "Accept — it's probably them with a new account", "isCorrect": false },
+        { "label": "Ignore or decline — it may be a fake account. Contact your real friend to verify.", "isCorrect": true },
+        { "label": "Accept and send them your phone number", "isCorrect": false },
+        { "label": "Share the request with all your friends", "isCorrect": false }
+      ],
+      "explanation": "Scammers create fake copies of real people's accounts to gain access to their contacts. If you're already friends with someone and get a second request, it's almost certainly a fake account."
+    },
+    {
+      "id": "social-q3",
+      "question": "Which privacy setting should you use for most of your Facebook posts?",
+      "options": [
+        { "label": "Public — so everyone can enjoy your posts", "isCorrect": false },
+        { "label": "Friends — so only people you know can see them", "isCorrect": true },
+        { "label": "Only Me — so nobody can see them", "isCorrect": false },
+        { "label": "No setting is needed", "isCorrect": false }
+      ],
+      "explanation": "The 'Friends' setting means only people you have chosen to connect with can see your posts — a good balance between sharing and privacy for most people."
+    },
+    {
+      "id": "social-q4",
+      "question": "What does clicking 'Like' (👍) on a Facebook post do?",
+      "options": [
+        { "label": "Shares the post with all your friends", "isCorrect": false },
+        { "label": "Deletes the post", "isCorrect": false },
+        { "label": "Shows the poster that you enjoyed or appreciated their content", "isCorrect": true },
+        { "label": "Sends the poster a private message", "isCorrect": false }
+      ],
+      "explanation": "The Like button (and other reactions) is a quick, friendly way to show appreciation for a post. The person who posted it will get a notification that you reacted."
+    },
+    {
+      "id": "social-q5",
+      "question": "Someone on Facebook sends you a message saying you've won a prize and asks for your bank details to send the money. What do you do?",
+      "options": [
+        { "label": "Provide your bank details to receive the prize", "isCorrect": false },
+        { "label": "Ignore the message and report the account to Facebook", "isCorrect": true },
+        { "label": "Thank them and ask how much you won", "isCorrect": false },
+        { "label": "Share the news with your friends", "isCorrect": false }
+      ],
+      "explanation": "Unsolicited prize messages on social media are always scams. Report the account to Facebook using the three-dot menu and never provide financial details."
+    },
+    {
+      "id": "social-q6",
+      "question": "You want to stop seeing posts from someone without removing them as a friend. What feature should you use?",
+      "options": [
+        { "label": "Block", "isCorrect": false },
+        { "label": "Report", "isCorrect": false },
+        { "label": "Unfollow", "isCorrect": true },
+        { "label": "Delete your account", "isCorrect": false }
+      ],
+      "explanation": "'Unfollow' hides someone's posts from your News Feed but keeps you connected as friends — they won't know you unfollowed them. 'Block' is more severe and ends the connection entirely."
+    }
+  ]
+}

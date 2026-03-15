@@ -1,0 +1,131 @@
+{
+  "id": "web-search-module",
+  "title": "Searching the Web Safely",
+  "description": "Find reliable information online and browse the web with confidence.",
+  "icon": "🔍",
+  "lessons": [
+    {
+      "id": "search-lesson-1",
+      "title": "What is the Internet and How Do You Access It?",
+      "difficulty": 1,
+      "content": "The internet is a vast global network connecting billions of computers, phones, and devices. It lets you access information, shop, communicate, and much more.\n\n🌐 Accessing the Internet:\nYou access the internet through a programme called a Web Browser. Popular browsers include:\n• Google Chrome (colourful circle icon) — most popular\n• Safari (compass icon) — built into iPhones and Macs\n• Microsoft Edge (blue wave icon) — built into Windows computers\n• Firefox — free and privacy-focused\n\nAll browsers are free and work in the same basic way.\n\n📡 How do you connect?\n• Wi-Fi — connects wirelessly to your broadband router at home (no data cost)\n• Mobile Data — phone connects through the mobile network (uses your monthly data allowance)\n\nAlways use your home Wi-Fi when possible — it's faster, more secure, and free.\n\n🔗 A website address (URL) looks like:\nwww.nhs.uk\nbbc.co.uk\namazon.co.uk\n\nYou type it into the long bar at the top of the browser (the address bar).",
+      "tips": [
+        "Use your home Wi-Fi whenever possible — it's faster and free.",
+        "You do not need to type 'www.' — the browser adds it automatically.",
+        "Bookmarks (the star icon ⭐) save favourite websites so you can return to them with one click."
+      ]
+    },
+    {
+      "id": "search-lesson-2",
+      "title": "How to Search with Google",
+      "difficulty": 1,
+      "content": "Google is a search engine — it helps you find information on virtually any topic within seconds.\n\n🔍 How to search:\n1. Open your web browser\n2. Click in the address bar at the top\n3. Type your question or keywords (no need for special formatting)\n4. Press Enter or click the magnifying glass icon 🔍\n5. A list of results appears — click any blue underlined link to visit that webpage\n\n✅ Good Search Tips:\n• Use simple keywords: 'NHS blood pressure advice' not 'Can you tell me what the NHS recommends for high blood pressure?'\n• Add a location if relevant: 'post offices near me' or 'dentist Swindon'\n• Add a year for recent info: 'weather UK March 2025'\n• Use 'site:' to search within a specific website: 'site:nhs.uk back pain'\n\n🔎 Understanding Search Results:\n• Blue underlined text = links to websites\n• Text under each link = a short description (the 'snippet')\n• 'Sponsored' or 'Ad' label = a paid advertisement (not necessarily bad, but prioritise non-ad results for health/official info)\n• The right-side panel = quick answers from trusted sources (Wikipedia, NHS, etc.)\n\nOther search engines: Bing (bing.com) and DuckDuckGo (duckduckgo.com) work similarly and respect your privacy more.",
+      "tips": [
+        "You can ask Google questions in plain English — 'what are the symptoms of a cold?' works perfectly.",
+        "Add 'UK' or 'NHS' to health queries to get reliable British results.",
+        "DuckDuckGo.com does not track your searches — a great option for more privacy."
+      ]
+    },
+    {
+      "id": "search-lesson-3",
+      "title": "Evaluating Websites — Can You Trust It?",
+      "difficulty": 2,
+      "content": "Not everything on the internet is true or accurate. Knowing how to spot trustworthy sources is an essential skill.\n\n✅ Signs of a Trustworthy Website:\n• Official government sites end in .gov.uk (UK government) or .gov (US)\n• NHS information is at nhs.uk — reliable for health in England\n• Charities and respected organisations (BBC, universities with .ac.uk)\n• The author is named and has relevant credentials\n• The page shows a recent date (information is up to date)\n• Sources and references are cited\n\n🚩 Signs to Be Cautious:\n• The website only presents one extreme viewpoint\n• No author or date is shown\n• The page is full of advertisements\n• Grammar and spelling mistakes throughout\n• Sensational headlines: 'DOCTORS DON'T WANT YOU TO KNOW THIS'\n• A website address ending in .xyz, .buzz, or very long complex addresses\n\n🔄 Cross-Referencing:\nIf you read something surprising, check a second or third source. If NHS, BBC, and a charity all say the same thing, you can be confident it's accurate.\n\n🤖 AI Answers:\nSearch engines now often show AI-generated answers at the top of results. These are often accurate but can make mistakes — always verify important medical, legal, or financial information with an official source.",
+      "tips": [
+        "NHS.uk is the gold standard for health information in England — always check it first.",
+        "If a headline makes you feel shocked or alarmed, pause and verify it before believing or sharing it.",
+        "Wikipedia is a good starting point but get information from primary sources for anything important."
+      ]
+    },
+    {
+      "id": "search-lesson-4",
+      "title": "Saving and Sharing Information",
+      "difficulty": 2,
+      "content": "Once you find useful information online, here's how to keep or share it:\n\n📌 Bookmarking a Website:\n1. Go to the website you want to save\n2. Click the star ⭐ icon in the address bar (Chrome/Edge) or the share icon then 'Add to Bookmarks' (Safari)\n3. Give it a name and click Save\n4. Find it later by clicking the bookmarks menu (usually ☆ or the three dots menu)\n\n🖨️ Printing a Webpage:\n1. Press Ctrl + P (Windows) or Cmd + P (Mac)\n2. A print preview appears — check it looks right\n3. Select your printer and click Print\n\n📋 Copying Text:\n1. Click and drag to highlight text on a webpage\n2. Right-click > Copy (or press Ctrl + C)\n3. Paste it into an email or document with Ctrl + V\n\n🔗 Sharing a Link:\n1. Click in the address bar — the website address is highlighted\n2. Press Ctrl + C to copy it\n3. Paste it into a WhatsApp message or email: Ctrl + V\nThe recipient can click the link to go straight to that page.\n\n📸 Taking a Screenshot:\n• Windows: Press Windows key + PrtScn — saved automatically to Pictures > Screenshots\n• iPhone: Press Side button + Volume Up simultaneously\n• Android: Press Power + Volume Down simultaneously",
+      "tips": [
+        "Use Ctrl + D to bookmark any page instantly in Chrome or Edge.",
+        "Ctrl + F opens a search box to find specific words on a long webpage.",
+        "Increase text size on any webpage: press Ctrl + Plus (+) as many times as you need."
+      ]
+    },
+    {
+      "id": "search-lesson-5",
+      "title": "Browsing Safely and Protecting Your Privacy",
+      "difficulty": 3,
+      "content": "Browsing the web safely involves protecting your personal data and avoiding online risks.\n\n🔒 Checking a Website is Safe:\n• Look for the padlock icon 🔒 in the address bar — it means the connection is encrypted\n• HTTPS:// at the start of the address = secure\n• HTTP:// (no 's') = not encrypted — avoid entering personal info\n\n🍪 Cookies:\nWhen you visit websites, they often ask you to accept 'cookies'. Cookies are small files that remember your preferences and browsing history.\n• Click 'Accept Necessary Only' or 'Reject All' where possible to limit tracking\n• Accepting all cookies allows websites to track you across the internet for advertising\n\n🔒 Private or Incognito Mode:\n• Open: Ctrl + Shift + N (Chrome/Edge) or Ctrl + Shift + P (Firefox)\n• In private mode, the browser doesn't save your history, cookies, or login details\n• Useful on shared computers so others can't see what you browsed\n\n🗑️ Clearing Your History:\n• Chrome/Edge: Ctrl + Shift + Delete > select time range > Clear data\n• This removes saved browsing history, passwords (if selected), and cookies\n\n🛡️ Keeping Safe:\n• Use a reputable ad blocker (uBlock Origin is free and highly rated)\n• Never enter personal information on a site that doesn't show 🔒\n• If a website asks you to install something unexpected, close it immediately",
+      "tips": [
+        "Use private/incognito mode on shared devices so your browsing remains private.",
+        "On any website asking to accept cookies, choose 'Necessary Only' to limit data collection.",
+        "An ad blocker not only removes annoying ads but also blocks many malicious ones — worth installing."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "search-q1",
+      "question": "What is Google?",
+      "options": [
+        { "label": "A web browser for accessing the internet", "isCorrect": false },
+        { "label": "A search engine that helps you find information on the internet", "isCorrect": true },
+        { "label": "An email service", "isCorrect": false },
+        { "label": "A social media platform", "isCorrect": false }
+      ],
+      "explanation": "Google is a search engine — you type words or questions, and it finds relevant web pages for you. Chrome (another Google product) is the browser you use to access it."
+    },
+    {
+      "id": "search-q2",
+      "question": "Which of these website addresses is most likely to be an official UK government source?",
+      "options": [
+        { "label": "uk-benefits-help.xyz", "isCorrect": false },
+        { "label": "gov.uk", "isCorrect": true },
+        { "label": "governmentservices.net", "isCorrect": false },
+        { "label": "uk-official-gov.com", "isCorrect": false }
+      ],
+      "explanation": "Official UK government websites always end in .gov.uk. Any other address claiming to be a government site is likely fake or a scam."
+    },
+    {
+      "id": "search-q3",
+      "question": "The padlock icon 🔒 in the browser address bar means:",
+      "options": [
+        { "label": "The website is completely safe and scam-free", "isCorrect": false },
+        { "label": "The website is government-approved", "isCorrect": false },
+        { "label": "Your connection to the website is encrypted", "isCorrect": true },
+        { "label": "You need to log in to continue", "isCorrect": false }
+      ],
+      "explanation": "The padlock shows your connection is encrypted (HTTPS), meaning data like passwords and card numbers are protected in transit. However, it doesn't guarantee the website itself is legitimate."
+    },
+    {
+      "id": "search-q4",
+      "question": "You want to find the NHS page on diabetes. Which search phrase would give the BEST results?",
+      "options": [
+        { "label": "diabetes", "isCorrect": false },
+        { "label": "Can you tell me please what NHS says about diabetes treatment?", "isCorrect": false },
+        { "label": "site:nhs.uk diabetes", "isCorrect": true },
+        { "label": "health website diabetes page UK", "isCorrect": false }
+      ],
+      "explanation": "Using 'site:nhs.uk diabetes' tells Google to only show results from the NHS website — giving you directly relevant, authoritative health information."
+    },
+    {
+      "id": "search-q5",
+      "question": "You are using a shared computer at a library. What should you use to keep your browsing private?",
+      "options": [
+        { "label": "Close the browser when done", "isCorrect": false },
+        { "label": "Private or Incognito Mode", "isCorrect": true },
+        { "label": "Use a different search engine", "isCorrect": false },
+        { "label": "Turn off the computer", "isCorrect": false }
+      ],
+      "explanation": "Private/Incognito Mode prevents the browser from saving your history, searches, or login details — essential when using a shared device so the next user cannot see what you did."
+    },
+    {
+      "id": "search-q6",
+      "question": "A website shows a notification: 'Download this software to speed up your computer'. What should you do?",
+      "options": [
+        { "label": "Download it — it could make your computer faster", "isCorrect": false },
+        { "label": "Close the page immediately — this is likely malware or a scam", "isCorrect": true },
+        { "label": "Enter your email address first to verify it's safe", "isCorrect": false },
+        { "label": "Click 'More Info' to learn about the software", "isCorrect": false }
+      ],
+      "explanation": "Unsolicited pop-ups telling you to download software are almost always malware or scams. Close the browser tab (or the whole browser if needed) and do not interact with the pop-up."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "smartphone-basics-module",
+  "title": "Smartphone Basics",
+  "description": "Get confident using your smartphone for everyday tasks.",
+  "icon": "📲",
+  "lessons": [
+    {
+      "id": "smartphone-lesson-1",
+      "title": "Getting to Know Your Smartphone",
+      "difficulty": 1,
+      "content": "A smartphone is a powerful mini-computer that fits in your pocket. It can call people, send messages, browse the internet, take photos, and much more.\n\n📱 The physical buttons and parts:\n• Power button — on the right side or top. Press once to wake/sleep the screen, hold to turn off.\n• Volume buttons — on the left side. Press + for louder, − for quieter.\n• Home button — on some phones, a physical button at the bottom. On newer phones, swipe up from the bottom.\n• Charging port — at the bottom. Plug in your charger here.\n• Camera — on the back (main camera) and front (for selfies and video calls).\n\n🖐️ Touch Screen Basics:\n• Tap — press once on an icon or button to open or select it\n• Swipe — slide your finger across the screen to scroll or move between pages\n• Pinch in / Spread out — use two fingers to zoom in and out on photos or maps\n• Long press — hold your finger on something for 2 seconds to see extra options\n• Double tap — tap quickly twice to zoom in or go back to full view",
+      "tips": [
+        "If your screen doesn't respond, make sure your finger isn't too dry — a very slightly moist fingertip works best.",
+        "Increase text size in Settings > Display > Font Size to make everything easier to read.",
+        "Never worry about breaking the screen by pressing too hard — you can't."
+      ]
+    },
+    {
+      "id": "smartphone-lesson-2",
+      "title": "Making and Receiving Calls",
+      "difficulty": 1,
+      "content": "Your smartphone is first and foremost a phone. Here is how to make and receive calls:\n\n📞 Making a Call:\n1. Tap the green Phone icon on your home screen\n2. Tap 'Keypad' to type a number, OR tap 'Contacts' to find a saved person\n3. Tap the green phone button to call\n4. Speak normally — hold the phone to your ear\n5. Tap the red button to end the call\n\n📲 Receiving a Call:\n• Your phone rings and shows who is calling (if saved in contacts)\n• Swipe the green icon to the right (or press 'Accept') to answer\n• Swipe the red icon to the left (or press 'Decline') to reject\n\n📋 Contacts:\n1. Open the Contacts app (the person icon)\n2. Tap the + button to add a new contact\n3. Type the name and phone number, then tap Save\n\n📵 Useful During a Call:\n• Tap the Speaker icon 🔊 to use speakerphone (great when your hands are busy)\n• Tap the Microphone icon 🎤 to mute yourself\n• Tap 'Keypad' if you need to press numbers (e.g. for automated phone menus)",
+      "tips": [
+        "Save important numbers (doctor, family) in your contacts so you see their name when they call.",
+        "If you missed a call, open your Phone app and tap 'Recents' to see missed calls and call back.",
+        "Use the Speaker mode during long calls so you can rest the phone comfortably."
+      ]
+    },
+    {
+      "id": "smartphone-lesson-3",
+      "title": "Sending Text Messages",
+      "difficulty": 1,
+      "content": "Text messages (SMS) are short written messages sent between phones. They are great for quick notes when a call isn't needed.\n\n💬 Sending a text message:\n1. Open the Messages app (speech bubble icon)\n2. Tap the pencil/compose icon (often top right)\n3. Type the name or number of the person you want to message\n4. Tap in the message box and type your message using the keyboard\n5. Tap the send button (arrow or paper plane icon)\n\n⌨️ Using the Touch Keyboard:\n• Tap each letter — a small pop-up shows the letter you pressed\n• Use Backspace (← key) to delete a mistake\n• Tap the Space bar between words\n• Tap '?123' or '.?123' to switch to numbers and punctuation\n• The phone often suggests words above the keyboard — tap one to insert it quickly\n\n📏 Tips for easier typing:\n• Turn your phone sideways (landscape) for a wider keyboard\n• Use voice dictation — tap the microphone icon 🎤 on the keyboard and speak your message\n• Pinch to zoom on the keyboard area is not possible — increase system font size instead\n\n💬 WhatsApp vs Normal Texts:\nWhatsApp messages use the internet (free on Wi-Fi). Normal SMS uses your phone plan (may cost money). Most family groups use WhatsApp.",
+      "tips": [
+        "Use the microphone key on your keyboard to speak your message instead of typing — much faster!",
+        "Autocorrect helps but sometimes changes words unexpectedly — always read before sending.",
+        "WhatsApp messages show two blue ticks ✓✓ when the other person has read your message."
+      ]
+    },
+    {
+      "id": "smartphone-lesson-4",
+      "title": "Installing and Using Apps",
+      "difficulty": 2,
+      "content": "Apps (applications) are programmes on your phone for different tasks. You can add new apps through an App Store.\n\n📦 Finding and Installing Apps:\n\nOn Android phones:\n1. Open the Google Play Store (colourful triangle icon)\n2. Tap the Search bar and type the app name\n3. Tap on the correct app, then tap 'Install'\n4. Wait for it to download — it appears on your home screen\n\nOn iPhones:\n1. Open the App Store (blue icon with letter A)\n2. Tap 'Search' at the bottom and type the app name\n3. Tap 'Get' next to the correct app\n4. You may need to enter your Apple ID password or use Face ID\n\n🎖️ Choosing Trustworthy Apps:\n• Check the number of reviews (millions of reviews = widely trusted)\n• Check the rating (4 stars or above is generally good)\n• Only download apps from official stores — never from random websites\n• Free apps are fine — just check they are from a reputable developer\n\n🔋 Managing Apps:\n• Swipe apps closed when you're not using them to save battery\n• Delete apps you no longer use: hold the icon > Delete/Remove App\n• Keep apps updated — updates fix security issues",
+      "tips": [
+        "Free apps from the official Google Play or Apple App Store are safe to install.",
+        "If an app asks for permissions that seem excessive (e.g. a flashlight app wanting your contacts), deny it.",
+        "Delete apps you don't use to free up storage space and improve performance."
+      ]
+    },
+    {
+      "id": "smartphone-lesson-5",
+      "title": "Battery, Storage, and Settings",
+      "difficulty": 2,
+      "content": "Keeping your phone healthy means managing its battery, storage, and settings.\n\n🔋 Battery Tips:\n• Charge your phone regularly — do not let it run completely flat too often\n• Use the original charger where possible\n• Enable 'Battery Saver' mode when running low (Settings > Battery)\n• Turn down screen brightness to extend battery life\n• Turn off Wi-Fi and Bluetooth when not needed\n\n💾 Storage Space:\n• Go to Settings > Storage to see how much space is used\n• Photos and videos take up the most space — back them up to Google Photos or iCloud (free)\n• Delete apps you no longer use\n• Clear the app cache occasionally (Settings > Apps > [App name] > Clear Cache)\n\n⚙️ Important Settings to Know:\n• Wi-Fi — Settings > Wi-Fi. Connect to your home network for free internet.\n• Bluetooth — connects wireless headphones, speakers, or car systems\n• Display — increase font size and screen brightness here\n• Accessibility — excellent options for larger text, higher contrast, and screen magnification\n• Software Updates — keeping your phone updated is very important for security. Go to Settings > Software Update and apply updates when available.\n\n🔒 Screen Lock:\nAlways use a PIN, pattern, fingerprint, or face recognition to lock your screen. This protects your data if you lose your phone.",
+      "tips": [
+        "Back up your photos to Google Photos or iCloud — they are free and prevent losing memories if your phone is lost.",
+        "Keep your phone software updated — updates fix security vulnerabilities that criminals exploit.",
+        "Use a PIN or fingerprint lock — a stranger who finds your unlocked phone has access to everything."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "smartphone-q1",
+      "question": "Which gesture do you use to see extra options on the screen, such as sharing or deleting?",
+      "options": [
+        { "label": "Double tap", "isCorrect": false },
+        { "label": "Pinch", "isCorrect": false },
+        { "label": "Long press (hold for 2 seconds)", "isCorrect": true },
+        { "label": "Swipe up", "isCorrect": false }
+      ],
+      "explanation": "A long press — holding your finger on an icon or item for around 2 seconds — usually reveals a menu of extra options like delete, share, rename, or move."
+    },
+    {
+      "id": "smartphone-q2",
+      "question": "Where do you go to install new apps on an Android phone?",
+      "options": [
+        { "label": "The App Store", "isCorrect": false },
+        { "label": "The Google Play Store", "isCorrect": true },
+        { "label": "Settings", "isCorrect": false },
+        { "label": "Any website that offers app downloads", "isCorrect": false }
+      ],
+      "explanation": "Android phones use the Google Play Store to download and install apps safely. iPhones use the Apple App Store. Never install apps from random websites."
+    },
+    {
+      "id": "smartphone-q3",
+      "question": "Your phone screen stopped responding to your taps. What is the quickest first thing to try?",
+      "options": [
+        { "label": "Take it to a repair shop immediately", "isCorrect": false },
+        { "label": "Restart (turn off and back on) your phone", "isCorrect": true },
+        { "label": "Wipe the screen with a wet cloth", "isCorrect": false },
+        { "label": "Factory reset the phone", "isCorrect": false }
+      ],
+      "explanation": "Restarting your phone solves the vast majority of minor glitches and freezes. It's always the best first step before anything more drastic."
+    },
+    {
+      "id": "smartphone-q4",
+      "question": "What does enabling 'Battery Saver' mode do?",
+      "options": [
+        { "label": "Charges your phone faster", "isCorrect": false },
+        { "label": "Reduces background activity to make the battery last longer", "isCorrect": true },
+        { "label": "Turns the phone off automatically", "isCorrect": false },
+        { "label": "Prevents the phone from connecting to the internet", "isCorrect": false }
+      ],
+      "explanation": "Battery Saver mode reduces background app activity, lowers screen brightness, and limits performance slightly — all to extend the remaining battery life when running low."
+    },
+    {
+      "id": "smartphone-q5",
+      "question": "Why is it important to keep your phone's software updated?",
+      "options": [
+        { "label": "Updates make the phone look different", "isCorrect": false },
+        { "label": "Updates fix security vulnerabilities that criminals can exploit", "isCorrect": true },
+        { "label": "The phone stops working without updates", "isCorrect": false },
+        { "label": "Updates delete your old photos", "isCorrect": false }
+      ],
+      "explanation": "Software updates patch security holes discovered by researchers. Phones with outdated software are more vulnerable to being hacked. Always apply updates when prompted."
+    },
+    {
+      "id": "smartphone-q6",
+      "question": "What is the quickest way to type a long message without using the keyboard?",
+      "options": [
+        { "label": "Buy a Bluetooth keyboard", "isCorrect": false },
+        { "label": "Use voice dictation — tap the microphone on the keyboard and speak", "isCorrect": true },
+        { "label": "Connect to a laptop instead", "isCorrect": false },
+        { "label": "Send a voice note instead", "isCorrect": false }
+      ],
+      "explanation": "Voice dictation lets you speak your message and the phone automatically converts it to text. It's built into most smartphone keyboards and is one of the quickest ways to type."
+    }
+  ]
+}

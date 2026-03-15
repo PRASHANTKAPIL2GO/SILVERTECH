@@ -1,0 +1,131 @@
+{
+  "id": "online-shopping-module",
+  "title": "Safe Online Shopping",
+  "description": "Buy what you need online safely, confidently, and securely.",
+  "icon": "🛒",
+  "lessons": [
+    {
+      "id": "shopping-lesson-1",
+      "title": "Why Shop Online?",
+      "difficulty": 1,
+      "content": "Online shopping lets you buy almost anything from the comfort of your home — no queues, no heavy bags, and items delivered right to your door.\n\n🎁 What can you buy online?\n• Groceries (Tesco, Sainsbury's, Asda deliver to your door)\n• Clothing and shoes\n• Books, DVDs, and gifts\n• Medicines and health products (with a prescription if needed)\n• Household items and appliances\n• Flowers, cards, and personalised gifts\n\n🏪 Popular trusted shopping websites:\n• Amazon (amazon.co.uk) — huge range of products\n• Tesco, Sainsbury's, Morrisons — for groceries with home delivery\n• Marks & Spencer (marksandspencer.com) — clothing and food\n• Boots (boots.com) — health and beauty\n• Argos (argos.co.uk) — electronics and home goods\n\nThe best part: prices are often cheaper online, and you can compare products side by side before buying.",
+      "tips": [
+        "You can order groceries online and choose a delivery slot that suits you — no need to carry heavy bags.",
+        "Most reputable shops offer free returns, so there's little risk in trying them.",
+        "Keep a list of websites you trust so you do not need to search from scratch each time."
+      ]
+    },
+    {
+      "id": "shopping-lesson-2",
+      "title": "Spotting a Safe Website",
+      "difficulty": 1,
+      "content": "Before buying from any website, check it is genuine and safe to use.\n\n🔒 Look for HTTPS:\nA safe website's address starts with https:// (notice the 's') and shows a padlock icon 🔒 in the address bar. This means your payment details are encrypted.\n\n✅ Signs of a trustworthy website:\n• A professional design without spelling mistakes\n• A clear contact page with a phone number and physical address\n• Recognisable logos (Visa, Mastercard, PayPal, SSL Secure)\n• Clear returns and refund policy\n• Real customer reviews\n\n🚩 Warning signs of a fake or unsafe website:\n• Prices that seem impossibly cheap ('iPhone for £50!')\n• Lots of spelling or grammar mistakes\n• No or very few customer reviews\n• Unusual website address (e.g. amaz0n-deals.xyz)\n• Pressure to 'Buy in the next 10 minutes!'\n• No clear way to contact the company\n\nWhen in doubt, search the website name plus 'reviews' or 'scam' to see what others say.",
+      "tips": [
+        "Always check for the padlock 🔒 symbol before entering any card details.",
+        "Stick to well-known brands when starting out — their websites are reliable and returns are easy.",
+        "Search the website on Trustpilot.com to read genuine customer reviews before buying."
+      ]
+    },
+    {
+      "id": "shopping-lesson-3",
+      "title": "Making Your First Online Purchase",
+      "difficulty": 1,
+      "content": "Here is a step-by-step guide to buying something online for the first time:\n\n1. Go to a trusted website (e.g., amazon.co.uk)\n2. Use the Search bar to find what you want\n3. Click on the item to see more details, photos, and reviews\n4. Click 'Add to Basket' or 'Add to Cart'\n5. Click 'Basket' or 'Cart' at the top of the page when ready\n6. Click 'Proceed to Checkout'\n7. Create an account or continue as a guest\n8. Enter your delivery address\n9. Choose your delivery option\n10. Enter your payment details (card number, expiry date, security code)\n11. Review your order and click 'Place Order' or 'Buy Now'\n\nYou will receive a confirmation email with your order number — save this!\n\n📦 Tracking your order:\nMost websites let you track your delivery in your account under 'My Orders'.",
+      "tips": [
+        "It's fine to order as a 'guest' without creating an account — quicker and requires less personal information.",
+        "Take a screenshot or print your order confirmation for reference.",
+        "Most items arrive within 2–5 working days unless you choose express delivery."
+      ]
+    },
+    {
+      "id": "shopping-lesson-4",
+      "title": "Paying Safely Online",
+      "difficulty": 2,
+      "content": "How you pay matters as much as where you shop. Here's how to pay safely:\n\n💳 Safest Payment Methods (ranked):\n\n1. PayPal — links to your bank/card but keeps your details private from the seller. Extra buyer protection.\n2. Credit Card — strongest legal protection. If something goes wrong, your credit card company must help you.\n3. Debit Card — less protection than credit, but widely accepted and generally safe on reputable sites.\n\n❌ Never Use:\n• Bank transfer (BACS) — you have very little protection if something goes wrong\n• Gift cards or vouchers — this is always a scam\n• Cryptocurrency — no buyer protection at all\n\n🏦 Understanding Card Details:\nWhen paying by card you will be asked for:\n• Long card number (16 digits on the front)\n• Expiry date (MM/YY)\n• CVV/Security code (3 digits on the back)\n\nMany banks now use 3D Secure — you'll receive a one-time code by text to confirm the purchase. This is legitimate and adds extra security.",
+      "tips": [
+        "Credit cards offer the best protection for online shopping — you can claim a refund through your bank if goods aren't delivered.",
+        "Never use a public Wi-Fi network (in a café, library, etc.) to make payments online.",
+        "Check your bank statement regularly for any payments you don't recognise."
+      ]
+    },
+    {
+      "id": "shopping-lesson-5",
+      "title": "Returns, Refunds, and Complaints",
+      "difficulty": 2,
+      "content": "You have strong rights as an online shopper — knowing them gives you confidence to shop.\n\n🔄 Your Right to Return:\nIn the UK, the Consumer Contracts Regulations give you the right to return most online purchases within 14 days — no reason needed. This is the 'cooling-off period'.\n\nHow to return an item:\n1. Log in to your account on the shopping website\n2. Go to 'My Orders' and select the item\n3. Click 'Return Item' and follow the instructions\n4. Print the returns label (or ask the Post Office for help)\n5. Pack the item securely and post it back\n6. Refunds are usually processed within 5–14 days\n\n📞 If Something Goes Wrong:\n• Contact the seller first via their website's 'Contact Us' page\n• If you used a credit card and the seller won't help, contact your bank (Section 75 protection)\n• If you used PayPal, open a dispute through PayPal's Resolution Centre\n• Report fake websites to Action Fraud (actionfraud.police.uk)\n\n⭐ Leave Reviews:\nAfter a good experience, leaving a review helps other shoppers — and companies love feedback!",
+      "tips": [
+        "Keep the original packaging until you are sure you want to keep the item — returns are much easier.",
+        "If an item arrives damaged, photograph it before reporting the problem — it speeds up the claim.",
+        "Credit card 'Section 75' protection covers purchases between £100 and £30,000 — a very powerful consumer right."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "shopping-q1",
+      "question": "Which of these signs indicates a website is SAFE to buy from?",
+      "options": [
+        { "label": "The price is much cheaper than anywhere else", "isCorrect": false },
+        { "label": "The address bar shows https:// and a padlock icon", "isCorrect": true },
+        { "label": "The website has lots of countdown timers", "isCorrect": false },
+        { "label": "You found it in an email you didn't expect", "isCorrect": false }
+      ],
+      "explanation": "The padlock 🔒 and https:// in the web address mean your connection is encrypted and your card details are protected as they travel to the website."
+    },
+    {
+      "id": "shopping-q2",
+      "question": "Which payment method offers the BEST buyer protection for online shopping?",
+      "options": [
+        { "label": "Bank transfer", "isCorrect": false },
+        { "label": "Gift cards", "isCorrect": false },
+        { "label": "Credit card", "isCorrect": true },
+        { "label": "Cryptocurrency", "isCorrect": false }
+      ],
+      "explanation": "Credit cards offer the strongest protection under Section 75 of the Consumer Credit Act. If goods aren't delivered or are misrepresented, your credit card company must refund you on purchases over £100."
+    },
+    {
+      "id": "shopping-q3",
+      "question": "A seller asks you to pay by gift cards because 'it's faster and safer'. What should you do?",
+      "options": [
+        { "label": "Buy the gift cards and send the codes — it sounds faster", "isCorrect": false },
+        { "label": "Refuse — this is a known scam technique", "isCorrect": true },
+        { "label": "Only send half as a test first", "isCorrect": false },
+        { "label": "Ask them to send an invoice first", "isCorrect": false }
+      ],
+      "explanation": "No legitimate seller asks you to pay with gift cards. This is one of the most common scam methods because gift card payments cannot be traced or reversed."
+    },
+    {
+      "id": "shopping-q4",
+      "question": "How many days do you have to return an online purchase in the UK without needing to give a reason?",
+      "options": [
+        { "label": "3 days", "isCorrect": false },
+        { "label": "7 days", "isCorrect": false },
+        { "label": "14 days", "isCorrect": true },
+        { "label": "30 days", "isCorrect": false }
+      ],
+      "explanation": "UK Consumer Contracts Regulations give you a 14-day cooling-off period from the day you receive your goods. You can return most online purchases within this time for any reason."
+    },
+    {
+      "id": "shopping-q5",
+      "question": "You receive a one-time code from your bank by text while making a payment online. What is this?",
+      "options": [
+        { "label": "A sign the website is trying to steal your details", "isCorrect": false },
+        { "label": "3D Secure — a legitimate extra security step your bank uses to verify it is you", "isCorrect": true },
+        { "label": "An error — you should cancel the payment", "isCorrect": false },
+        { "label": "A spam text — ignore it", "isCorrect": false }
+      ],
+      "explanation": "3D Secure (sometimes called 'Verified by Visa' or 'Mastercard SecureCode') sends a one-time code to confirm your identity. It's a security feature, not a scam."
+    },
+    {
+      "id": "shopping-q6",
+      "question": "Where should you check a website's reputation before buying from it for the first time?",
+      "options": [
+        { "label": "The website's own homepage", "isCorrect": false },
+        { "label": "An independent review site like Trustpilot.com", "isCorrect": true },
+        { "label": "A pop-up ad that appeared while browsing", "isCorrect": false },
+        { "label": "The website's Facebook page", "isCorrect": false }
+      ],
+      "explanation": "Independent review sites like Trustpilot show genuine customer feedback and are harder for dishonest sellers to manipulate. Always check before shopping at an unfamiliar website."
+    }
+  ]
+}

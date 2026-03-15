@@ -1,0 +1,131 @@
+{
+  "id": "digital-banking-module",
+  "title": "Digital Banking Safely",
+  "description": "Manage your money online and through your phone — safely and with confidence.",
+  "icon": "🏦",
+  "lessons": [
+    {
+      "id": "banking-lesson-1",
+      "title": "What is Online and Mobile Banking?",
+      "difficulty": 1,
+      "content": "Online banking and mobile banking let you manage your money from home — no queuing in a branch.\n\n💻 Online Banking:\nYou log in to your bank's website on a computer or tablet using your customer ID and password. From there you can:\n✅ Check your balance and transactions\n✅ Transfer money to friends and family\n✅ Pay bills\n✅ Set up, change, or cancel Direct Debits\n✅ View and download statements\n✅ Report a lost or stolen card\n\n📱 Mobile Banking App:\nMost banks also have a free app for smartphones with the same features, plus some extras:\n• Instant notifications when money leaves or enters your account\n• Freeze your card instantly if you lose it\n• Pay someone by scanning a QR code\n• Check your balance without logging in fully (on some apps)\n\n🏦 All major UK banks offer both:\nLloyds, Barclays, HSBC, NatWest, Halifax, Santander, TSB, Nationwide, and more.\n\nYou set up online banking by calling your bank or visiting a branch — they will give you your login details safely.",
+      "tips": [
+        "You can set up online banking by visiting your branch — staff are used to helping people through the process.",
+        "Mobile banking apps send instant alerts when money moves — a great way to spot unauthorised transactions quickly.",
+        "Online banking is available 24 hours a day, 7 days a week — you are never stuck waiting for a branch to open."
+      ]
+    },
+    {
+      "id": "banking-lesson-2",
+      "title": "Logging In Safely",
+      "difficulty": 1,
+      "content": "Logging in to your bank account safely requires care and attention.\n\n✅ How to Log In:\n1. Always go directly to your bank's website by typing the address yourself (e.g. lloydsbank.com)\n2. NEVER click a link to your bank in an email or text — type the address manually every time\n3. Enter your Customer ID/Username\n4. Your bank may ask for specific characters of your password (e.g. '2nd, 5th, and 8th character') — this is normal\n5. You may be sent a one-time code to your mobile — enter it to verify your identity (this is 2FA)\n\n🔒 Security Features Your Bank Uses:\n• Memorable information questions (e.g. 'Mother's maiden name')\n• One-time passcodes by text\n• Card reader devices for extra verification\n• Biometric login (fingerprint or face recognition) on mobile apps\n\n📛 Signs You Are on the REAL Bank Website:\n• The address is exactly right (e.g. lloydsbank.com — NOT lloydsbank-secure.com)\n• The padlock 🔒 is visible\n\n🚨 Your Bank Will NEVER:\n• Ask for your full password\n• Ask for your PIN\n• Ask you to transfer money to a 'safe account'\n• Send you a link to log in by text or email",
+      "tips": [
+        "Bookmark your bank's website after confirming the address is correct — use that bookmark every time.",
+        "Log out fully when you finish banking — don't just close the browser tab.",
+        "Never access your bank account on public Wi-Fi (coffee shops, airports, libraries)."
+      ]
+    },
+    {
+      "id": "banking-lesson-3",
+      "title": "Checking Your Balance and Transactions",
+      "difficulty": 1,
+      "content": "Regularly checking your account helps you keep track of spending and spot anything unusual.\n\n📊 Checking Your Balance:\nOnce logged in, your current account balance is usually shown prominently on the first page (the Dashboard or Account Summary).\n\nYou will typically see:\n• Available Balance — what you can spend right now\n• Current Balance — all money in the account (some pending transactions may not show yet)\n\n📋 Viewing Transactions:\n1. Click on your account name or 'View Transactions'\n2. A list of recent payments in and out appears\n3. Each transaction shows: date, description (who paid you or who you paid), and amount\n\n🔍 What to Look For:\n• Any transactions you don't recognise — even small amounts like £1 or £2 (criminals often test with tiny amounts first)\n• Subscriptions you forgot about and no longer need\n• Direct Debits you want to cancel\n\n📄 Bank Statements:\nMost banks let you download statements as PDF files. You can save or print these for records or to apply for something like a rental property.\n\n⏰ Check Your Account:\nWe recommend checking at least once a week — it only takes a minute and gives you peace of mind.",
+      "tips": [
+        "Set up text or app notifications for all transactions — you'll know instantly if something unexpected happens.",
+        "Even a small unrecognised transaction is worth reporting — criminals often test with tiny amounts before taking more.",
+        "Download your monthly statement as a PDF and save it in a folder — useful for tax, benefits, or rental applications."
+      ]
+    },
+    {
+      "id": "banking-lesson-4",
+      "title": "Making Transfers and Paying Bills",
+      "difficulty": 2,
+      "content": "You can send money to family and pay bills easily through online or mobile banking.\n\n💸 Making a Bank Transfer:\n1. Log in to your online banking\n2. Click 'Make a Payment' or 'Transfer Money'\n3. Choose 'New Payee' to add someone for the first time\n4. Enter the payee's:\n   • Full name (how they want to be known)\n   • Sort code (6 digits, usually shown as XX-XX-XX)\n   • Account number (8 digits)\n5. Enter the amount and a reference (e.g. 'Birthday gift')\n6. Confirm with your one-time code or card reader\n\n⚠️ Confirmation of Payee:\nMost UK banks now check whether the name you entered matches the account. If it doesn't match, stop and double-check before proceeding.\n\n📅 Setting Up Standing Orders and Direct Debits:\n• Standing Order — you set up a regular automatic payment of a fixed amount (e.g. monthly rent)\n• Direct Debit — the company takes money automatically; the amount can vary (e.g. energy bills)\n\nYou can view, edit, and cancel both in your online banking under 'Payments' or 'Manage Payments'.\n\n💡 Tip — Paying Small Businesses:\nAlways confirm the bank details directly with the business by phone before sending money. Fraudsters sometimes intercept emails and change payment details.",
+      "tips": [
+        "Always call to verify bank details before making a large transfer — especially to a new payee.",
+        "If the Confirmation of Payee check fails (name doesn't match), stop and check the details carefully.",
+        "Keep a record of large transfers — note the date, amount, and reference in case you need to query it later."
+      ]
+    },
+    {
+      "id": "banking-lesson-5",
+      "title": "Recognising Bank Fraud and Staying Safe",
+      "difficulty": 3,
+      "content": "Banking fraud is the most financially damaging type of online scam. Knowing how to spot it is essential.\n\n🚨 Authorised Push Payment (APP) Fraud:\nThis is when you are tricked into willingly transferring money to a criminal. Common scenarios:\n• 'Your account is compromised — transfer your money here to keep it safe'\n• A fake invoice from a builder, solicitor, or tradesperson with changed bank details\n• Someone pretending to be a family member in trouble needing urgent money\n\nBanks can now reimburse APP fraud victims in many cases — report it immediately.\n\n📞 Safe Account Scam:\nYour bank will NEVER call and ask you to move money to a 'safe account'. If anyone does this — hang up and call your bank on the number on your card.\n\n🎣 Phishing and Smishing:\n• Phishing = fake bank emails with links to fake login pages\n• Smishing = fake bank text messages with links\nNever click links to your bank in emails or texts — type the address yourself.\n\n✅ Protecting Your Banking:\n• Use a unique strong password for your banking (never share it)\n• Enable all security notifications your bank offers\n• Check your balance weekly for unusual activity\n• Freeze your card instantly in the app if you think it's been compromised\n• Never do online banking on public Wi-Fi\n\n📱 Freeze Your Card:\nIf you lose your card or see suspicious activity, most banking apps let you freeze (temporarily block) your card instantly — without having to cancel it.",
+      "tips": [
+        "Save your bank's fraud line number in your phone — you'll be able to call quickly if you need it.",
+        "If you receive a call from 'your bank', hang up and call them back on the official number — even if it sounds urgent.",
+        "Most banks will reimburse APP fraud if you report it quickly — never delay."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "banking-q1",
+      "question": "Your bank sends you an email with a link to 'update your details'. What should you do?",
+      "options": [
+        { "label": "Click the link — it's from your bank", "isCorrect": false },
+        { "label": "Do not click. Go directly to your bank's website by typing the address yourself", "isCorrect": true },
+        { "label": "Reply to the email with your details", "isCorrect": false },
+        { "label": "Forward it to a family member to check", "isCorrect": false }
+      ],
+      "explanation": "Your bank will never ask you to update details via an email link. This is a phishing attempt. Always type your bank's address directly into your browser — never use links in emails."
+    },
+    {
+      "id": "banking-q2",
+      "question": "You notice a £1.50 charge from a company you don't recognise on your bank statement. What should you do?",
+      "options": [
+        { "label": "It's only £1.50 — ignore it", "isCorrect": false },
+        { "label": "Report it to your bank as a suspicious transaction", "isCorrect": true },
+        { "label": "Wait to see if more appear next month", "isCorrect": false },
+        { "label": "Pay it to avoid interest charges", "isCorrect": false }
+      ],
+      "explanation": "Criminals often test stolen card details with very small amounts before making larger fraudulent purchases. Report any unrecognised transaction — no matter how small — to your bank immediately."
+    },
+    {
+      "id": "banking-q3",
+      "question": "A caller says they are from your bank and asks you to transfer your savings to a new 'safe account' they will provide. What should you do?",
+      "options": [
+        { "label": "Follow their instructions to protect your money", "isCorrect": false },
+        { "label": "Hang up immediately and call your bank on the number on your card", "isCorrect": true },
+        { "label": "Ask them for identification first then proceed", "isCorrect": false },
+        { "label": "Transfer just half the amount as a precaution", "isCorrect": false }
+      ],
+      "explanation": "No legitimate bank ever asks you to transfer money to a 'safe account'. This is the classic authorised push payment fraud script. Hang up and call your bank directly using the number on the back of your card."
+    },
+    {
+      "id": "banking-q4",
+      "question": "What information does the payee need to receive a bank transfer from you?",
+      "options": [
+        { "label": "Name, email address, and date of birth", "isCorrect": false },
+        { "label": "Name, sort code, and account number", "isCorrect": true },
+        { "label": "Name, card number, and CVV", "isCorrect": false },
+        { "label": "Name and phone number only", "isCorrect": false }
+      ],
+      "explanation": "UK bank transfers require the payee's name, 6-digit sort code, and 8-digit account number. Never ask for or provide card numbers (the 16-digit number on the front) for transfers — that's for card payments only."
+    },
+    {
+      "id": "banking-q5",
+      "question": "What is the difference between a Standing Order and a Direct Debit?",
+      "options": [
+        { "label": "There is no difference — they are the same thing", "isCorrect": false },
+        { "label": "A Standing Order is a fixed amount you set; a Direct Debit can vary and is set by the company", "isCorrect": true },
+        { "label": "A Direct Debit is internal (to yourself); a Standing Order goes to others", "isCorrect": false },
+        { "label": "A Standing Order costs money to set up; a Direct Debit is free", "isCorrect": false }
+      ],
+      "explanation": "A Standing Order is a fixed payment you control (e.g. paying rent). A Direct Debit is set up by a company who can change the amount (e.g. energy bills). Both are automatic regular payments."
+    },
+    {
+      "id": "banking-q6",
+      "question": "You lose your bank card on a Saturday evening when your branch is closed. What should you do?",
+      "options": [
+        { "label": "Wait until the branch opens on Monday", "isCorrect": false },
+        { "label": "Use your bank's app or 24-hour phone line to freeze your card immediately", "isCorrect": true },
+        { "label": "Tell the police but wait before contacting the bank", "isCorrect": false },
+        { "label": "Try to retrace your steps first before doing anything", "isCorrect": false }
+      ],
+      "explanation": "Most banks now allow you to freeze your card instantly through their app — and all have 24/7 fraud lines. Act immediately. Every minute counts when a card is lost or stolen."
+    }
+  ]
+}

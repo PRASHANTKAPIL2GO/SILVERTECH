@@ -1,0 +1,131 @@
+{
+  "id": "scam-module",
+  "title": "Recognising Online Scams",
+  "description": "Protect yourself from common internet scams and fraud.",
+  "icon": "🛡️",
+  "lessons": [
+    {
+      "id": "scam-lesson-1",
+      "title": "What are Online Scams?",
+      "difficulty": 1,
+      "content": "An online scam is when someone on the internet tries to trick you into giving them money or personal information.\n\nScammers are very clever — they often pretend to be:\n• Your bank\n• The government or tax office\n• A delivery company\n• A family member in trouble\n• A tech support company\n\nThe goal is always the same: to steal your money or identity.\n\n⚠️ Key thing to remember:\nReal organisations will NEVER pressure you to act immediately or secretly. If someone is rushing you or telling you to keep it secret — that is a huge warning sign.\n\nAnyone can be targeted by a scam. It is NOT your fault if it happens. Scammers are professional criminals who do this full time.",
+      "tips": [
+        "Scammers often create urgency — 'Act now!' is always a red flag.",
+        "Always verify unexpected contacts by calling the organisation directly using a number you find yourself.",
+        "Talk to someone you trust if something feels wrong — never act alone under pressure."
+      ]
+    },
+    {
+      "id": "scam-lesson-2",
+      "title": "Types of Common Scams",
+      "difficulty": 1,
+      "content": "Here are the most common scams targeting seniors:\n\n📞 Phone Scams\nSomeone calls pretending to be from your bank or the government and asks for your details or to transfer money to a 'safe account'.\n\n💻 Tech Support Scams\nA pop-up says your computer has a virus. Someone calls offering to 'fix' it — but they want remote access to steal your files or money.\n\n💌 Romance Scams\nSomeone online claims to love you and after weeks of contact, eventually asks for money for an emergency.\n\n🛒 Shopping Scams\nFake websites that look real, take your payment, and either send nothing or send a worthless item.\n\n📦 Delivery Scams\nA text says a parcel could not be delivered and asks you to pay a small fee — clicking the link gives scammers your card details.\n\n🏛️ Government Impersonation\nCalls or letters saying you owe tax or face arrest — designed to make you panic and pay immediately.",
+      "tips": [
+        "Your bank will never call and ask for your PIN or transfer money to a 'safe account'.",
+        "Microsoft and Apple do not call you unsolicited about your computer.",
+        "Never send money to someone you have not met in person — no matter how well you think you know them online."
+      ]
+    },
+    {
+      "id": "scam-lesson-3",
+      "title": "Spotting a Scam Message",
+      "difficulty": 2,
+      "content": "Scam messages — whether by phone, email, or text — usually share common warning signs. Learn to spot them:\n\n🔴 Red Flags in Messages:\n• Spelling mistakes and poor grammar\n• Your name is not used — it says 'Dear Customer' or 'Dear User'\n• A sense of urgency: 'Act within 24 hours!'\n• Requests for personal details, passwords, or bank information\n• Links to websites with odd addresses (e.g. gov-uk-tax-refund.xyz)\n• Prizes or winnings you did not enter\n• Threats of legal action or arrest\n\n✅ How to Check:\n1. Do not click any links — go to the company's official website by typing it yourself\n2. Call the organisation directly using a number from their official website or your bank card\n3. Search the phone number or message online — many known scams are reported there\n4. Ask a family member, friend, or your local library for help",
+      "tips": [
+        "Hover over a link before clicking — the real destination appears in the bottom of your browser.",
+        "Search the exact wording of a suspicious message online — others may have reported it.",
+        "When in doubt, do nothing. Legitimate organisations will contact you again."
+      ]
+    },
+    {
+      "id": "scam-lesson-4",
+      "title": "How to Protect Yourself",
+      "difficulty": 2,
+      "content": "You can protect yourself from scams by following these simple rules:\n\n🔒 Protect Your Information\n• Never share passwords, PINs, or banking details with anyone\n• Do not give out your National Insurance or Social Security number unless you initiated contact\n• Shred letters containing personal details before recycling\n\n🤔 Slow Down\n• Scammers want you to panic and act fast\n• Taking time to think and check is always the right move — genuine organisations will understand\n\n📞 Verify Independently\n• Hang up and call the organisation back using a number from their official website or your bank card\n• Ask a trusted family member or friend for a second opinion before taking any action\n\n💻 Stay Secure Online\n• Use strong, unique passwords for important accounts\n• Turn on two-step verification (2FA) where possible — this adds an extra layer of security\n• Keep your phone and computer software up to date",
+      "tips": [
+        "It is perfectly fine to hang up on a suspicious caller — no explanation needed.",
+        "Genuine callers from banks will not mind you calling them back on an official number.",
+        "There is no shame in being targeted — scammers are professional criminals who deceive millions of people."
+      ]
+    },
+    {
+      "id": "scam-lesson-5",
+      "title": "What to Do If You've Been Scammed",
+      "difficulty": 3,
+      "content": "If you think you have been scammed, act quickly — the sooner you act, the better.\n\n🚨 Steps to Take Immediately:\n\n1. Contact your bank\nCall the number on the back of your bank card straight away. Ask them to stop any payments and protect your account. Banks have dedicated fraud teams available 24/7.\n\n2. Change your passwords\nIf you shared a password or clicked a suspicious link, change your passwords immediately — start with your email and banking accounts.\n\n3. Report the scam\n• In the UK: Report to Action Fraud (0300 123 2040) or online at actionfraud.police.uk\n• In the US: Report to the FTC at reportfraud.ftc.gov\n• In Australia: Report to Scamwatch at scamwatch.gov.au\n\n4. Tell someone you trust\nDo not be embarrassed. Talking to family or a trusted friend helps and means they can support you.\n\n5. Keep records\nSave any messages, emails, or notes about calls. This evidence helps the authorities.\n\n💬 Remember:\nBeing scammed is not your fault. Banks and police deal with this every day and are there to help you.",
+      "tips": [
+        "Most banks have a dedicated 24/7 fraud line — keep the number saved in your phone.",
+        "Even if no money was taken, reporting scams helps authorities protect others.",
+        "Recovery is possible — many people successfully recover money lost to scams by acting quickly."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "scam-q1",
+      "question": "Someone calls saying your bank account is compromised and asks for your PIN. What do you do?",
+      "options": [
+        { "label": "Give them your PIN to verify your identity", "isCorrect": false },
+        { "label": "Hang up and call your bank using the number on your card", "isCorrect": true },
+        { "label": "Follow their instructions to keep your account safe", "isCorrect": false },
+        { "label": "Transfer your money to a 'safe account' they provide", "isCorrect": false }
+      ],
+      "explanation": "Banks never ask for your PIN by phone. Hanging up and calling the official number on your card is always the safest response."
+    },
+    {
+      "id": "scam-q2",
+      "question": "A pop-up on your screen says your computer has a virus and you must call a number immediately. What should you do?",
+      "options": [
+        { "label": "Call the number straight away", "isCorrect": false },
+        { "label": "Close the browser or restart your computer", "isCorrect": true },
+        { "label": "Give them remote access to fix it", "isCorrect": false },
+        { "label": "Pay the fee to remove the virus", "isCorrect": false }
+      ],
+      "explanation": "These pop-ups are tech support scams. Close your browser or restart your computer. Microsoft and Apple do not contact you this way."
+    },
+    {
+      "id": "scam-q3",
+      "question": "Which of these is a WARNING SIGN of a scam?",
+      "options": [
+        { "label": "A formal letter from your local council", "isCorrect": false },
+        { "label": "Urgent pressure to act immediately and secretly", "isCorrect": true },
+        { "label": "An email from your registered bank confirming a transaction you made", "isCorrect": false },
+        { "label": "A call you made yourself to a known number", "isCorrect": false }
+      ],
+      "explanation": "Urgency and secrecy are the top warning signs of scams. Legitimate organisations give you time to verify and check — they will never demand you act in secret."
+    },
+    {
+      "id": "scam-q4",
+      "question": "You receive a text saying a parcel could not be delivered and asking you to pay £1.99 to rearrange it. The link looks unfamiliar. What should you do?",
+      "options": [
+        { "label": "Click the link and pay the small fee — it's only £1.99", "isCorrect": false },
+        { "label": "Do not click — go directly to the delivery company's official website to check your order", "isCorrect": true },
+        { "label": "Reply to the text with your address", "isCorrect": false },
+        { "label": "Forward the text to friends to warn them", "isCorrect": false }
+      ],
+      "explanation": "This is a common 'delivery fee' smishing (SMS phishing) scam. Never click links in unexpected texts. Visit the delivery company's official website directly by typing its address."
+    },
+    {
+      "id": "scam-q5",
+      "question": "You have been sending money to someone you met online who said they love you. They now ask for more money for an emergency. What is most likely happening?",
+      "options": [
+        { "label": "It is a genuine emergency and you should help", "isCorrect": false },
+        { "label": "This is a romance scam — stop sending money and talk to someone you trust", "isCorrect": true },
+        { "label": "Send half the amount to be safe", "isCorrect": false },
+        { "label": "Ask them to video call first, then decide", "isCorrect": false }
+      ],
+      "explanation": "Romance scammers build trust over weeks or months before requesting money. The requests always escalate. Stop contact, do not send more money, and speak to a trusted friend or family member."
+    },
+    {
+      "id": "scam-q6",
+      "question": "You realise you gave your bank card details to a scam website. What is the FIRST thing you should do?",
+      "options": [
+        { "label": "Wait and see if any money goes missing before acting", "isCorrect": false },
+        { "label": "Contact your bank immediately using the number on your card", "isCorrect": true },
+        { "label": "Change your email password", "isCorrect": false },
+        { "label": "Post about it on social media", "isCorrect": false }
+      ],
+      "explanation": "Contact your bank immediately — they can freeze your card and potentially reverse fraudulent transactions. Time is critical in card fraud cases."
+    }
+  ]
+}

@@ -232,6 +232,26 @@ export default function DashboardPage() {
                         </div>
                     )}
                 </div>
+
+                {/* ── AI Assistant Chatbot ────────────────────────── */}
+                <div className="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8 py-12">
+                    <div className="mb-8">
+                        <h2 className="font-display text-3xl font-extrabold text-slate-900 mb-2">
+                            AI Learning Assistant
+                        </h2>
+                        <p className="text-slate-500 text-lg">
+                            Get help with your learning journey from our AI assistant.
+                        </p>
+                    </div>
+                    <div className="bg-white rounded-2xl shadow-lg border border-slate-200 overflow-hidden">
+                        <iframe
+                            src="https://www.chatbase.co/chatbot-iframe/78nPOWm_QtY-3PNL8HH3W"
+                            width="100%"
+                            style={{ height: '100%', minHeight: '700px' }}
+                            frameBorder="0"
+                        />
+                    </div>
+                </div>
             </div>
         </ProtectedRoute>
     );

@@ -6,6 +6,7 @@ import ProtectedRoute from '@/components/ui/ProtectedRoute';
 import LessonCard from '@/components/modules/LessonCard';
 import { progressApi } from '@/lib/api';
 import { UserProgress } from '@/types';
+import ChatWidget from '@/components/ui/ChatWidget';
 
 const modules = [
     {
@@ -232,6 +233,9 @@ export default function DashboardPage() {
                         </div>
                     )}
                 </div>
+
+                {/* Chat widget */}
+                <ChatWidget />
             </div>
         </ProtectedRoute>
     );

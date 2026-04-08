@@ -100,6 +100,41 @@ const modules = [
         icon: '🏛️',
         color: 'from-yellow-600 to-orange-500',
     },
+    {
+        id: 'cloud-storage-module',
+        title: 'Cloud Storage & File Sharing',
+        description: 'Safely store files in the cloud and share them with others.',
+        icon: '☁️',
+        color: 'from-sky-500 to-blue-600',
+    },
+    {
+        id: 'online-privacy-module',
+        title: 'Online Privacy & Cybersecurity',
+        description: 'Protect your personal information and stay safe online.',
+        icon: '🛡️',
+        color: 'from-purple-600 to-indigo-600',
+    },
+    {
+        id: 'internet-safety-module',
+        title: 'Internet Safety for Seniors',
+        description: 'Essential tips for staying safe while using the internet.',
+        icon: '🌐',
+        color: 'from-teal-500 to-cyan-600',
+    },
+    {
+        id: 'productivity-tools-module',
+        title: 'Productivity Tools & Office Apps',
+        description: 'Master essential tools for work and productivity.',
+        icon: '📊',
+        color: 'from-amber-500 to-orange-600',
+    },
+    {
+        id: 'digital-photo-management-module',
+        title: 'Photos & Digital Memories',
+        description: 'Master organizing, editing, and sharing your photos safely.',
+        icon: '📸',
+        color: 'from-rose-500 to-pink-600',
+    },
 ];
 
 const levelConfig = {

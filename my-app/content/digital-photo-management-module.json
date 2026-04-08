@@ -1,0 +1,44 @@
+{
+  "id": "digital-photo-management-module",
+  "title": "Photos & Digital Memories",
+  "description": "Master organizing, editing, and sharing your photos safely.",
+  "icon": "📸",
+  "lessons": [
+    {
+      "id": "photo-lesson-1",
+      "title": "Taking Better Photos",
+      "difficulty": 1,
+      "content": "Your smartphone camera is a powerful tool. Learn to take better photos with simple techniques.\n\n📷 Basic Phone Photography Tips:\n1. Lighting is key\n   - Use natural light when possible\n   - Take photos near windows for soft light\n   - Avoid harsh midday sun — use shade\n   - Golden hour (sunrise/sunset) creates beautiful photos\n2. Composition\n   - Rule of thirds: imagine 9 squares on screen, place subjects on lines\n   - Keep horizons level\n   - Leave space for the subject to 'look into'\n   - Get closer to your subject\n   - Remove clutter from the background\n3. Framing\n   - Center isn't always best\n   - Experiment with angles (low, high, diagonal)\n   - Use foreground elements to frame subject\n   - Include context around your subject\n\n🎥 Phone Camera Features:\n• Portrait mode: blurs background to focus on subject\n• Night mode: takes better photos in low light\n• Panoramic mode: takes wide landscape photos\n• Burst mode: hold button to take rapid photos, choose the best\n• Grid: turn on grid to help with composition\n• HDR: blends multiple exposures for balanced lighting\n• Filters: apply artistic effects (use sparingly)\n\n📸 Photo Types:\n1. Portraits: face fills the frame, soft lighting, eye contact\n2. Landscapes: wide view, interesting foreground and background\n3. Close-ups: macro mode for small details\n4. Action: fast shutter speed, freeze the moment\n5. Food: overhead angle, natural light from side\n6. Group photos: make sure everyone is visible, good lighting on faces\n\n✨ Phone Editing Basics:\n1. Crop: remove unwanted parts\n2. Brightness: lighten or darken\n3. Contrast: make lights and darks more distinct\n4. Saturation: make colors more or less vivid\n5. Temperature: make warmer or cooler\n6. Straighten: fix tilted horizons\n7. Blur: soften background\n8. Filters: apply preset styles\n\n💾 File Formats:\n• JPEG: compressed, smaller file size, standard for sharing\n• PNG: better quality, larger file size, supports transparency\n• RAW: professional format, much larger, more editing flexibility\n• Live Photos: includes short video",
+      "tips": [
+        "Clean your phone camera lens before taking photos — wipe with soft cloth.",
+        "Use both front and back cameras to experiment with different angles.",
+        "The best camera is the one you have with you — your phone is enough!",
+        "Take multiple shots — you're likely to get at least one great photo."
+      ]
+    },
+    {
+      "id": "photo-lesson-2",
+      "title": "Organizing Your Photo Collection",
+      "difficulty": 1,
+      "content": "Managing thousands of digital photos prevents loss and makes finding memories easy.\n\n📁 Creating a Photo Organization System:\n\nMethod 1 — By Date:\n• 2024/\n  - January/\n  - February/\n  - etc.\n\nMethod 2 — By Event:\n• Family/\n  - Christmas 2024/\n  - Summer Vacation/\n  - Grandchild's Birthday/\n• Travel/\n  - Paris 2024/\n  - Beach Trip/\n\nMethod 3 — By Person (for portraits):\n• Family Members/\n  - Mom/\n  - Sister/\n  - Grandchildren/\n\nMethod 4 — By Category:\n• Portraits/\n• Landscapes/\n• Pets/\n• Food/\n• Events/\n\n☁️ Using Google Photos:\n1. Install Google Photos app or go to photos.google.com\n2. Photos auto-upload from your phone\n3. Search by date, person, or location\n4. Create albums for special events\n5. Use 'Archive' to hide photos but keep them\n6. Get unlimited storage with Google One\n7. Share albums with family\n8. Print directly from Google Photos\n\n🏷️ Tagging and Organizing:\n1. Add descriptions to important photos\n2. Create albums for vacations, events, people\n3. Star favorite photos for easy finding\n4. Use face recognition to group photos of people\n5. Add location tags (if safe)\n6. Use keywords in descriptions for searching\n\n🗑️ Cleaning Up Your Collection:\n1. Delete poor quality photos\n2. Remove duplicates\n3. Remove blurry shots\n4. Delete photos taken by accident\n5. Review and delete screenshots you don't need\n6. Remove unwanted crop variations\n7. Archive old photos you want to keep but not see\n\n💾 Backup Strategies:\n• Automatic cloud backup (Google Photos, iCloud)\n• External hard drive (2TB for large collections)\n• Multiple backups: cloud + external drive\n• Back up at least quarterly\n• Test that backups work\n• Keep one backup in separate location (fire safety)\n\n📱 Phone Storage Management:\n• Keep only recent favorites on phone\n• Archive older photos to cloud/external drive\n• Use cloud sync to access without storing locally\n• Delete screenshots and accidental photos\n• Use phone storage settings to see what takes space",
+      "tips": [
+        "Google Photos uses facial recognition to find all photos of a person — privacy settings control this.",
+        "Make multiple backups of truly important photos — redundancy ensures safety.",
+        "An external hard drive costs $50-100 and stores thousands of photos.",
+        "Name folders with dates so they automatically sort chronologically: '2024-01-15_Paris Trip'"
+      ]
+    },
+    {
+      "id": "photo-lesson-3",
+      "title": "Sharing Photos Safely",
+      "difficulty": 2,
+      "content": "Share your memories with family and friends while protecting privacy and preventing misuse.\n\n👨‍👩‍👧 Sharing with Family:\n1. Create a shared album in Google Photos or Apple iCloud\n2. Invite family members via email\n3. They can view, add, and comment\n4. Benefits: collaborative memory keeping, everyone has copies\n5. Privacy: only invited people can see\n\n🔗 Sharing Options:\n• Direct share: send a link that anyone with the link can view\n• Email: attach photos to email messages\n• Cloud storage: upload to Google Drive, OneDrive, Dropbox\n• Social media: post on Facebook, Instagram\n• Messaging apps: send via WhatsApp, Facebook Messenger\n• Photo printing: order prints from Google Photos or Amazon\n\n🔐 Privacy Considerations:\n1. Remove location data before sharing online\n   - Go to Settings > Privacy or Photo Properties\n   - Remove EXIF data with online tools\n2. Don't share photos of other people without permission\n3. Be careful about photos showing:\n   - Your home (strangers learning when you're away)\n   - Your face for facial recognition\n   - Grandchildren's identities\n   - Financial information (checks, cards)\n4. Avoid posting real-time location photos (post later)\n5. Check privacy settings on social media\n\n⚠️ Photo Risks:\n• Identity theft using photos\n• Cybercriminals using images for scams\n• AI deepfakes created from photos\n• Unauthorized use for advertising\n• Location tracking from photo metadata\n• Grandparent scams using photos\n• Strangers learning about you\n\n✅ Safe Sharing Best Practices:\n1. Only share with trusted people\n2. Use privacy-conscious platforms\n3. Avoid posting identifying information\n4. Remove location data before sharing\n5. Use password-protected links for private sharing\n6. Regularly review who has access\n7. Ask permission before sharing others' photos\n8. Update privacy settings regularly\n\n📤 Different Sharing Methods:\n\nSocial Media (public):\n• Use sparingly\n• Avoid sensitive content\n• Review privacy settings\n• Don't share identifying info\n\nFamily Apps (semi-private):\n• Marco Polo, Lifecake\n• Designed for family sharing\n• Automatic privacy controls\n• Good for geographically distant families\n\nCloud Storage (private):\n• Google Drive, OneDrive\n• Password protected\n• Control who sees what\n• Good for backup\n\n📝 Photo Metadata (EXIF Data):\n• Automatically recorded by phone cameras\n• Includes: date, time, location, camera settings\n• Can be viewed by anyone if not removed\n• Remove before sharing online\n• How to remove: most editing apps have this option",
+      "tips": [
+        "Grandparents can safely share photos in a private family group chat rather than public social media.",
+        "If concerned about facial recognition, slightly crop photos or blur faces before social media posting.",
+        "Always ask grandchildren's parents before posting photos of kids online.",
+        "For important family memories, print physical copies as backup to digital storage."
+      ]
+    }
+  ]
+}

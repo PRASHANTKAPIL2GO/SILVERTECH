@@ -17,6 +17,19 @@ export default function QuizComponent({ questions, onComplete }: QuizComponentPr
     const [score, setScore] = useState(0);
     const [finished, setFinished] = useState(false);
 
+    // Guard against undefined or empty questions
+    if (!questions || questions.length === 0) {
+        return (
+            <Card className="text-center py-10" as="section">
+                <div className="text-4xl mb-4" aria-hidden="true">
+                    ⚠️
+                </div>
+                <h2 className="text-2xl font-bold text-gray-900 mb-2">No Questions Available</h2>
+                <p className="text-gray-600 mb-6">This quiz doesn't have any questions yet. Please try another module.</p>
+            </Card>
+        );
+    }
+
     const question = questions[currentIndex];
     const isLast = currentIndex === questions.length - 1;
 

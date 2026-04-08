@@ -1,0 +1,42 @@
+{
+  "id": "cloud-storage-module",
+  "title": "Cloud Storage & File Sharing",
+  "description": "Learn how to safely store files in the cloud and share them with others.",
+  "icon": "☁️",
+  "lessons": [
+    {
+      "id": "cloud-lesson-1",
+      "title": "What is Cloud Storage?",
+      "difficulty": 1,
+      "content": "Cloud storage is like a safe locker in the internet where you can keep your files. Instead of storing files only on your phone or computer, they are backed up online.\n\n☁️ Benefits of Cloud Storage:\n• Access files anywhere — on any device with internet\n• Automatic backup — if your phone breaks, your files are still safe\n• Free up space — remove files from your phone, keep them in the cloud\n• Easy sharing — send links to friends instead of large files\n• Security — your files are encrypted and protected\n\n📱 Popular Cloud Storage Services:\n• Google Drive — free 15GB storage, works with Gmail\n• OneDrive — Microsoft's cloud, integrated with Windows\n• iCloud — Apple's service for iPhones and Macs\n• Dropbox — popular for file sharing and collaboration\n\n🔐 Security Tips:\n• Use strong passwords for your cloud accounts\n• Enable two-factor authentication\n• Don't share sensitive documents publicly\n• Review who has access to shared files regularly",
+      "tips": [
+        "Google Drive gives you 15GB free storage — usually enough for documents and photos.",
+        "You can recover deleted files from trash within 30 days.",
+        "Share files with 'View only' permission so others can't accidentally edit them."
+      ]
+    },
+    {
+      "id": "cloud-lesson-2",
+      "title": "Using Google Drive",
+      "difficulty": 1,
+      "content": "Google Drive is one of the easiest cloud storage services to use. Here's how to get started:\n\n📂 Accessing Google Drive:\n1. Go to drive.google.com on your computer or open the Google Drive app on your phone\n2. Sign in with your Gmail account\n3. You'll see your files and folders\n\n📁 Uploading Files:\n1. Click the 'New' button (+ icon)\n2. Select 'File upload' or 'Folder upload'\n3. Choose files from your computer\n4. Files appear in your My Drive section\n\n📄 Creating Documents:\n1. Click 'New' and choose 'Google Docs', 'Sheets', or 'Slides'\n2. Start typing or adding content\n3. Files auto-save — no need to manually save\n\n🔗 Sharing Files:\n1. Right-click a file and select 'Share'\n2. Enter email addresses of people you want to share with\n3. Choose permission level: Viewer, Commenter, or Editor\n4. Click 'Share' — they receive an invitation email\n\n⚙️ Managing Your Drive:\n• Organize with folders — click 'New' > 'Folder'\n• Star important files — click the star icon\n• Search files — use the search bar at the top\n• Check storage — settings show your usage\n• Empty trash — deleted files stay in trash for 30 days",
+      "tips": [
+        "Google Drive files don't count against your storage limit if you use Google Docs, Sheets, or Slides.",
+        "Keyboard shortcut: Press Ctrl+S (or Cmd+S on Mac) in Google Docs to ensure it's saved.",
+        "Download files from Drive to your computer when offline."
+      ]
+    },
+    {
+      "id": "cloud-lesson-3",
+      "title": "Backing Up Your Phone",
+      "difficulty": 2,
+      "content": "Backing up means creating a copy of everything on your phone. If your phone gets lost, broken, or stolen, you can restore everything to a new phone.\n\n📱 Backing Up on Android:\n1. Open Settings\n2. Go to 'Accounts' > 'Google' (or 'System' > 'Backup')\n3. Select your Google account\n4. Tap 'Manage your Google Account' > 'Backup'\n5. Toggle on 'Backup to Google One'\n6. Choose what to back up: contacts, messages, photos, app data\n\n📱 Backing Up on iPhone:\n1. Open Settings\n2. Go to 'iCloud' (top of settings)\n3. Tap 'iCloud Backup'\n4. Toggle on 'iCloud Backup'\n5. Tap 'Back Up Now'\n6. Wait for backup to complete (may take 10-30 minutes)\n\n✅ What Gets Backed Up:\n• Contacts and calendar\n• Messages and call history\n• Photos (to Google Photos or iCloud)\n• App settings and data\n• SMS and WhatsApp messages (if enabled)\n\n🔄 Restoring from Backup:\n1. When you get a new phone, during initial setup, select 'Restore from backup'\n2. Sign in with your account\n3. Choose which data to restore\n4. Wait for restoration to complete\n5. Your new phone will be just like your old one!",
+      "tips": [
+        "Make backups regular — at least weekly or after important changes.",
+        "Check that backup completed successfully — it shows in your backup settings.",
+        "Keep your backup account password safe — never share it with anyone.",
+        "Backups over Wi-Fi are faster — plug in your phone and connect to Wi-Fi."
+      ]
+    }
+  ]
+}

@@ -33,6 +33,28 @@ export default function ChatWidget() {
   ]);
   const [loading, setLoading] = useState(false);
   const scrollRef = useRef<HTMLDivElement | null>(null);
+  const [isMounted, setIsMounted] = useState(false);
+
+  // Load chat history from localStorage on mount
+  useEffect(() => {
+    setIsMounted(true);
+    const savedMessages = localStorage.getItem('chatHistory');
+    if (savedMessages) {
+      try {
+        const parsed = JSON.parse(savedMessages);
+        setMessages(parsed.map((m: any) => ({ ...m, timestamp: new Date(m.timestamp) })));
+      } catch (err) {
+        console.error('Failed to load chat history:', err);
+      }
+    }
+  }, []);
+
+  // Save chat history to localStorage whenever messages change
+  useEffect(() => {
+    if (isMounted && messages.length > 1) {
+      localStorage.setItem('chatHistory', JSON.stringify(messages));
+    }
+  }, [messages, isMounted]);
 
   useEffect(() => {
     scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: 'smooth' });
@@ -45,10 +67,6 @@ export default function ChatWidget() {
     const userMsg: Message = { id: uid(), role: 'user', content: trimmed, timestamp: new Date() };
     setMessages((m) => [...m, userMsg]);
     setInput('');
-
-    // add placeholder assistant message
-    const placeholder: Message = { id: uid(), role: 'assistant', content: '⏳ Thinking...', timestamp: new Date() };
-    setMessages((m) => [...m, placeholder]);
     setLoading(true);
 
     try {
@@ -57,6 +75,12 @@ export default function ChatWidget() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ messages: messages.concat(userMsg).map(({ role, content }) => ({ role, content })) }),
       });
+
+      if (!resp.ok) {
+        const errorData = await resp.json();
+        throw new Error(errorData.error || `API Error: ${resp.status}`);
+      }
+
       const data = await resp.json();
       const reply = data?.reply ?? 'Sorry, I couldn\'t process that. Please try again.';
 
@@ -70,8 +94,9 @@ export default function ChatWidget() {
         }
         return [...m, { id: uid(), role: 'assistant', content: reply, timestamp: new Date() }];
       });
-    } catch (err) {
-      setMessages((m) => [...m, { id: uid(), role: 'assistant', content: '❌ Error: Could not reach the assistant. Please try again.', timestamp: new Date() }]);
+    } catch (err: any) {
+      const errorMsg = err instanceof Error ? err.message : 'Could not reach the assistant';
+      setMessages((m) => [...m, { id: uid(), role: 'assistant', content: `❌ Error: ${errorMsg}. Please try again.`, timestamp: new Date() }]);
     } finally {
       setLoading(false);
     }
@@ -81,6 +106,20 @@ export default function ChatWidget() {
     if (e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault();
       if (!loading) sendMessage();
+    }
+  };
+
+  const clearHistory = () => {
+    if (confirm('Are you sure you want to clear chat history?')) {
+      setMessages([
+        { 
+          id: uid(), 
+          role: 'assistant', 
+          content: 'Hello! 👋 I\'m your SilverTech learning assistant. I can help you with modules, lessons, progress tracking, and more. What would you like to know?',
+          timestamp: new Date()
+        },
+      ]);
+      localStorage.removeItem('chatHistory');
     }
   };
 
@@ -126,43 +165,94 @@ export default function ChatWidget() {
                 <div className="text-xs opacity-75">Always here to help</div>
               </div>
             </div>
-            <button
-              onClick={() => setOpen(false)}
-              className="hover:bg-white/20 p-1 rounded transition"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                <path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" />
-              </svg>
-            </button>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={clearHistory}
+                className="hover:bg-white/20 p-2 rounded transition text-xs font-medium"
+                title="Clear chat history"
+              >
+                🗑️
+              </button>
+              <button
+                onClick={() => setOpen(false)}
+                className="hover:bg-white/20 p-1 rounded transition"
+              >
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                  <path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" />
+                </svg>
+              </button>
+            </div>
           </div>
 
           {/* Messages */}
-          <div ref={scrollRef} className="flex-1 p-4 overflow-y-auto space-y-3 bg-gray-50">
+          <div ref={scrollRef} className="flex-1 p-4 overflow-y-auto bg-gradient-to-b from-gray-50 to-white">
             {messages.length === 0 ? (
-              <div className="text-center text-gray-400 py-8">
-                <p>No messages yet</p>
+              <div className="text-center text-gray-400 py-12 flex flex-col items-center justify-center h-full">
+                <p className="text-4xl mb-3">👋</p>
+                <p className="text-lg font-semibold mb-1">No messages yet</p>
+                <p className="text-xs">Start a conversation to get help</p>
               </div>
             ) : (
-              messages.filter(m => m.role !== 'system').map((m) => (
-                <div key={m.id} className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'} animate-slideIn`}>
-                  <div className={`${
-                    m.role === 'user' 
-                      ? 'bg-gradient-to-br from-blue-500 to-blue-600 text-white rounded-2xl rounded-tr-none' 
-                      : 'bg-white border border-gray-200 text-gray-800 rounded-2xl rounded-tl-none shadow-sm'
-                  } max-w-[75%] px-4 py-2.5 text-sm leading-relaxed`}>
-                    {m.content}
-                  </div>
-                </div>
-              ))
+              <div className="space-y-3">
+                {messages.filter(m => m.role !== 'system').map((m, idx, arr) => {
+                  const isFirstInGroup = idx === 0 || arr[idx - 1]?.role !== m.role;
+                  const isLastInGroup = idx === arr.length - 1 || arr[idx + 1]?.role !== m.role;
+                  const showAvatar = isFirstInGroup;
+                  
+                  return (
+                    <div 
+                      key={m.id} 
+                      className={`flex ${m.role === 'user' ? 'justify-end' : 'justify-start'} gap-2 animate-slideIn ${!isLastInGroup ? 'mb-0.5' : 'mb-3'}`}
+                    >
+                      {m.role === 'assistant' && showAvatar && (
+                        <div className="w-8 h-8 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center flex-shrink-0 text-white text-sm font-bold shadow-sm">A</div>
+                      )}
+                      {m.role === 'assistant' && !showAvatar && (
+                        <div className="w-8 flex-shrink-0"></div>
+                      )}
+                      
+                      <div className={`flex flex-col max-w-[65%] ${m.role === 'user' ? 'items-end' : 'items-start'}`}>
+                        <div className={`${
+                          m.role === 'user' 
+                            ? 'bg-gradient-to-br from-blue-600 to-blue-700 text-white' 
+                            : 'bg-gray-200 text-gray-900'
+                        } ${
+                          isFirstInGroup && isLastInGroup ? 'rounded-2xl' :
+                          isFirstInGroup ? 'rounded-t-2xl rounded-b-lg' :
+                          isLastInGroup ? 'rounded-b-2xl rounded-t-lg' :
+                          'rounded-lg'
+                        } px-4 py-2 text-sm leading-relaxed break-words`}>
+                          {m.content}
+                        </div>
+                        {isLastInGroup && m.timestamp && (
+                          <div className={`text-xs mt-1 ${m.role === 'user' ? 'text-right pr-1' : 'text-left pl-1'} text-gray-400 font-medium`}>
+                            {new Date(m.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                          </div>
+                        )}
+                      </div>
+
+                      {m.role === 'user' && showAvatar && (
+                        <div className="w-8 h-8 rounded-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center flex-shrink-0 text-white text-sm font-bold shadow-sm">Y</div>
+                      )}
+                      {m.role === 'user' && !showAvatar && (
+                        <div className="w-8 flex-shrink-0"></div>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
             )}
             {loading && (
-              <div className="flex justify-start">
-                <div className="bg-gray-200 text-gray-600 rounded-2xl rounded-tl-none px-4 py-2.5">
-                  <span className="inline-flex gap-1">
-                    <span className="w-2 h-2 bg-gray-500 rounded-full animate-bounce"></span>
-                    <span className="w-2 h-2 bg-gray-500 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></span>
-                    <span className="w-2 h-2 bg-gray-500 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></span>
-                  </span>
+              <div className="flex justify-start gap-2 animate-slideIn">
+                <div className="w-8 h-8 rounded-full bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center flex-shrink-0 text-white text-sm font-bold shadow-sm">A</div>
+                <div className="flex flex-col max-w-[65%]">
+                  <div className="bg-gray-200 text-gray-600 rounded-t-2xl rounded-b-lg px-4 py-2">
+                    <span className="inline-flex gap-1.5">
+                      <span className="w-2 h-2 bg-gray-500 rounded-full animate-bounce"></span>
+                      <span className="w-2 h-2 bg-gray-500 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></span>
+                      <span className="w-2 h-2 bg-gray-500 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></span>
+                    </span>
+                  </div>
                 </div>
               </div>
             )}

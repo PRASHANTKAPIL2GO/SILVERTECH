@@ -1,0 +1,44 @@
+{
+  "id": "internet-safety-module",
+  "title": "Internet Safety for Seniors",
+  "description": "Essential tips for staying safe while using the internet.",
+  "icon": "🌐",
+  "lessons": [
+    {
+      "id": "internet-safety-lesson-1",
+      "title": "Internet Basics",
+      "difficulty": 1,
+      "content": "The internet is a global system of computers connected together. Understanding how it works helps you use it safely.\n\n🌐 What is the Internet?\n• A network of millions of computers worldwide\n• You access it through a browser (Chrome, Safari, Firefox, Edge)\n• Information travels in packages from one computer to another\n• Websites store information on servers (computers that run 24/7)\n\n🔗 How Websites Work:\n1. You type a website address (URL) in your browser\n2. Your request travels to the server\n3. The server finds the website and sends it back\n4. Your browser displays it on your screen\n\n📡 Connection Types:\n• WiFi — wireless internet in your home (router broadcasts signal)\n• Mobile data — internet on your phone using cellular networks\n• Broadband — fast internet connection for computers\n• Public WiFi — free WiFi at cafes, libraries, airports\n\n🏠 Setting Up Internet at Home:\n1. Contact an internet service provider (ISP)\n2. They install a modem (device that connects to the internet)\n3. A router broadcasts WiFi signal throughout your home\n4. Devices connect to this WiFi\n5. Change the default router password immediately\n6. Name your network something personal (SSID)\n\n⚠️ Important Online Safety Principles:\n• Not everything you read online is true\n• Websites track what you do\n• Your passwords are your keys — protect them\n• Internet connections can be intercepted\n• Never trust unsolicited messages or offers\n• Think before clicking or downloading anything",
+      "tips": [
+        "Bookmark websites you use often so you don't have to type the address every time.",
+        "Use Ctrl+T (Cmd+T on Mac) to open a new tab quickly.",
+        "Clear your browser history regularly — Settings > History > Clear browsing data.",
+        "Website addresses starting with 'https://' are more secure than 'http://'"
+      ]
+    },
+    {
+      "id": "internet-safety-lesson-2",
+      "title": "Safe Browsing Habits",
+      "difficulty": 1,
+      "content": "How you browse the internet affects your safety. Good habits protect you from scams, malware, and privacy invasion.\n\n✅ Safe Browsing Rules:\n1. Only visit websites with 'https://' in the address (the 's' means secure)\n2. Check for security indicators — padlock icon near the address\n3. Read website privacy policies if sharing information\n4. Never enter sensitive information on public WiFi\n5. Verify website URLs carefully — scammers use similar-looking addresses\n6. Look for 'About Us' section to verify legitimacy\n7. Check for contact information — real websites have it\n8. Be skeptical of redirects to other websites\n\n📱 Identifying Trustworthy Websites:\n• Established companies have verified contact info\n• Professional design (not poorly made)\n• Clear privacy policies\n• Customer reviews and ratings\n• Social media presence with real engagement\n• No aggressive pop-ups or ads\n• Clear return/refund policies for shopping sites\n\n❌ Warning Signs of Fake Websites:\n• Asks for passwords or financial info unnecessarily\n• Spelling and grammar mistakes\n• Suspicious or hidden contact information\n• No security certificate (no https or padlock)\n• Too many pop-ups or ads\n• 'Too good to be true' offers\n• Pressures you to buy or act immediately\n• Misspelled website address\n\n🔍 Checking Website Legitimacy:\n1. Go to the official website directly (don't click email links)\n2. Call the company to verify offers\n3. Search '[company name] + scam' to see if others reported it\n4. Check Better Business Bureau (BBB) for complaints\n5. Ask a trusted person familiar with websites\n\n🍪 Understanding Cookies:\n• Cookies are small files websites store on your computer\n• They remember your preferences and login information\n• Most cookies are harmless but can track your behavior\n• You can disable cookies in browser settings\n• Clear cookies occasionally for privacy",
+      "tips": [
+        "Hover over links before clicking to see where they actually go (bottom of screen shows the real URL).",
+        "If a website keeps redirecting you, close it immediately — it's likely malicious.",
+        "Install browser extensions like 'uBlock Origin' to block ads and malware.",
+        "Use private/incognito mode when you don't want websites tracking your behavior."
+      ]
+    },
+    {
+      "id": "internet-safety-lesson-3",
+      "title": "Online Payment Safety",
+      "difficulty": 2,
+      "content": "Online shopping and payments are convenient but require extra caution to protect your financial information.\n\n💳 Safe Online Payments:\n1. Only shop on secure websites (https and padlock icon)\n2. Use credit cards rather than debit cards (better fraud protection)\n3. Set up alerts for your bank accounts\n4. Use unique passwords for shopping accounts\n5. Keep payment receipts and order confirmations\n6. Check bank statements regularly for unauthorized charges\n7. Keep software and antivirus updated\n8. Use virtual credit card numbers if your bank offers them\n\n🛒 Shopping Safely:\n• Buy from established retailers you know\n• Check shipping and return policies before purchasing\n• Don't click links in emails — go directly to websites\n• Verify the site's physical address and phone number\n• Look for customer reviews on independent sites\n• Avoid extremely cheap prices on expensive items\n• Pay with payment systems that offer buyer protection\n• Screenshot or save confirmation emails\n\n🚫 Payment Methods to Avoid:\n• Gift cards — no buyer protection\n• Wire transfers — irreversible\n• Cryptocurrency — difficult to track or reverse\n• Money orders — no buyer protection\n• Cash — can't be recovered if scammed\n\n⚠️ Red Flags for Scams:\n• Website demands gift cards as payment\n• Urgent pressure to pay quickly\n• Prices significantly lower than competitors\n• No clear return policy\n• Broken website or poor English\n• Requests for personal information beyond what's needed\n• Seller avoids using secure payment systems\n\n🏦 What to Do if Scammed:\n1. Stop all communication with the scammer\n2. Contact your bank or payment provider immediately\n3. File a dispute or chargeback\n4. Report to Federal Trade Commission (FTC)\n5. File police report for significant losses\n6. Monitor your accounts for more fraud\n7. Check your credit report for identity theft",
+      "tips": [
+        "Most legitimate companies accept credit cards — be suspicious if they don't.",
+        "Save your receipts until items arrive and you've verified the order.",
+        "Use PayPal's buyer protection or credit card chargeback if items don't arrive.",
+        "Never give your Social Security number or government ID to online retailers."
+      ]
+    }
+  ]
+}

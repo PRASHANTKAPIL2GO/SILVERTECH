@@ -1,0 +1,44 @@
+{
+  "id": "online-privacy-module",
+  "title": "Online Privacy & Cybersecurity",
+  "description": "Protect your personal information and stay safe online.",
+  "icon": "🛡️",
+  "lessons": [
+    {
+      "id": "privacy-lesson-1",
+      "title": "Understanding Privacy Online",
+      "difficulty": 1,
+      "content": "Privacy online means controlling who sees your personal information. It's important to protect your data from hackers and companies that might misuse it.\n\n👤 What is Personal Information?\n• Your real name and address\n• Phone number and email\n• Date of birth\n• Financial information (bank details, card numbers)\n• Photos and videos\n• Location (GPS data)\n• Passwords and security questions\n• Health information\n\n⚠️ Why Privacy Matters:\n• Identity theft — criminals impersonate you\n• Fraud — unauthorized purchases with your information\n• Harassment — strangers contact you\n• Data selling — companies sell your info to advertisers\n• Scams — targeted scams based on your information\n\n🔐 Basic Privacy Rules:\n1. Never share passwords with anyone\n2. Use different passwords for different accounts\n3. Don't post sensitive information on social media\n4. Check privacy settings on all accounts\n5. Don't click suspicious links or download unknown files\n6. Use official apps and websites\n7. Log out after using shared computers\n8. Be careful what you share in public Wi-Fi networks",
+      "tips": [
+        "Your email address is like a key to your accounts — protect it carefully.",
+        "Use a password manager like Google Password Manager to remember complex passwords.",
+        "Enable two-factor authentication wherever available — it's extra security.",
+        "If you're ever unsure, ask someone you trust before sharing information online."
+      ]
+    },
+    {
+      "id": "privacy-lesson-2",
+      "title": "Privacy Settings on Social Media",
+      "difficulty": 2,
+      "content": "Social media apps collect lots of your information. Learning to adjust privacy settings helps keep your data safe.\n\n🔒 Facebook Privacy Settings:\n1. Open Facebook > Settings & Privacy > Settings\n2. Go to 'Privacy'\n3. Check 'Who can see your posts?' — set to Friends Only\n4. Check 'Who can see your full name?' — only friends\n5. Go to 'Apps and websites' — remove apps you don't use\n6. Check 'Who can contact you?' — friends only\n7. Disable location sharing\n\n🔒 Instagram Privacy Settings:\n1. Open Instagram > Settings > Privacy and Security\n2. Toggle 'Private Account' ON\n3. Check 'Accounts you follow' to see follow requests\n4. Disable 'Allow sharing of activity status'\n5. Check 'Restricted' accounts — block annoying people without them knowing\n6. Review 'Connected accounts' and remove unused ones\n\n🔒 WhatsApp Privacy:\n1. Open WhatsApp > Settings > Account\n2. Set 'Last seen' to 'Contacts only' or 'Nobody'\n3. Disable 'Read receipts' (blue ticks)\n4. Set 'Profile photo' visibility to 'Contacts only'\n5. Set 'About' visibility to 'Contacts only'\n6. Disable 'Live location' sharing\n\n💡 General Tips:\n• Don't friend/follow strangers\n• Don't accept friend requests from fake profiles\n• Review your old posts — delete anything too personal\n• Think before posting — the internet is forever\n• Don't post your location in real-time",
+      "tips": [
+        "A private account means only approved followers can see your posts.",
+        "Check who has requested to follow you regularly and deny suspicious requests.",
+        "Use strong, unique passwords for each social media account.",
+        "Log out on shared computers after using social media."
+      ]
+    },
+    {
+      "id": "privacy-lesson-3",
+      "title": "Recognizing and Avoiding Cyber Threats",
+      "difficulty": 2,
+      "content": "Cyber threats are attacks that try to steal your information or damage your devices. Knowing what to look for helps you stay safe.\n\n🚨 Common Cyber Threats:\n\nPhishing — Fake emails or messages pretending to be from banks, PayPal, Amazon, etc.\n• They ask you to click a link and enter your password\n• Real companies never ask for passwords via email\n• Check the sender's email address carefully\n• Hover over links to see where they really go\n\nMalware — Malicious software that damages your device\n• Can steal your files, passwords, or financial information\n• Install antivirus software\n• Keep your device updated\n• Only download from official app stores\n\nRansomware — Locks your files and demands payment\n• Back up your files regularly\n• Don't pay ransom if it happens\n• Restore from backup\n\n🔍 Red Flags to Watch For:\n• Too-good-to-be-true offers (free money, prizes, lottery wins)\n• Urgent language ('Act Now!' or 'Account will be closed')\n• Requests for passwords or personal information\n• Suspicious links (misspelled website names)\n• Unknown senders\n• Requests for payment via gift cards or wire transfers\n\n✅ Stay Safe:\n1. Don't click links from unknown sources\n2. Don't download attachments from suspicious emails\n3. Verify phone numbers from official websites before calling\n4. Install security updates immediately\n5. Use antivirus software\n6. Trust your instincts — if it seems wrong, it probably is\n7. Report suspicious emails to the company directly\n8. Never give your passwords over the phone",
+      "tips": [
+        "If you click a phishing link, change your password immediately.",
+        "Google's 'Safe Browsing' automatically warns you about malicious websites.",
+        "Most cyber attacks work because people are tricked, not because of technology failure.",
+        "When in doubt, contact the company directly using a number from their official website."
+      ]
+    }
+  ]
+}

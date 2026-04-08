@@ -1,0 +1,44 @@
+{
+  "id": "productivity-tools-module",
+  "title": "Productivity Tools & Office Apps",
+  "description": "Master essential tools for work and productivity.",
+  "icon": "📊",
+  "lessons": [
+    {
+      "id": "productivity-lesson-1",
+      "title": "Google Docs and Google Sheets",
+      "difficulty": 1,
+      "content": "Google Docs and Sheets are free online tools for creating documents and spreadsheets. They're similar to Microsoft Word and Excel but work in your browser.\n\n📄 Getting Started with Google Docs:\n1. Go to docs.google.com\n2. Click '+ New' > 'Document'\n3. Start typing your document\n4. Documents auto-save to your Google Drive\n5. Click 'Share' to collaborate with others\n\n✨ Useful Google Docs Features:\n• Formatting: Bold (Ctrl+B), Italic (Ctrl+I), Underline (Ctrl+U)\n• Headers: Format > Paragraph styles to make titles\n• Lists: Format > Bullets and numbering\n• Tables: Insert > Table\n• Images: Insert > Image and upload from computer or search web\n• Comments: Click on text and type a comment for feedback\n• Version history: File > Version history to see changes\n• Download: File > Download to save as Word or PDF\n\n📊 Getting Started with Google Sheets:\n1. Go to sheets.google.com\n2. Click '+ New' > 'Spreadsheet'\n3. Cells are organized in rows and columns\n4. Click a cell and type data\n5. Use formulas to calculate automatically\n\n🔢 Basic Spreadsheet Formulas:\n• =SUM(A1:A10) — adds numbers from A1 to A10\n• =AVERAGE(A1:A10) — calculates average\n• =COUNT(A1:A10) — counts how many cells have numbers\n• =MAX(A1:A10) — finds the largest number\n• =MIN(A1:A10) — finds the smallest number\n• =IF(A1>100, \"Big\", \"Small\") — if statement\n\n👥 Collaborating:\n1. Click 'Share' button in top right\n2. Enter email addresses\n3. Choose permission: Viewer, Commenter, or Editor\n4. Click 'Share'\n5. All changes sync in real-time\n6. See who's editing (colored cursors)",
+      "tips": [
+        "Google Docs files are stored online and accessible from any device with internet.",
+        "You can work offline — changes will sync when you reconnect.",
+        "Use keyboard shortcuts to work faster: Ctrl+Z to undo, Ctrl+Y to redo.",
+        "Create templates for letters, resumes, or forms you use often."
+      ]
+    },
+    {
+      "id": "productivity-lesson-2",
+      "title": "Email Management",
+      "difficulty": 1,
+      "content": "Effective email management helps you stay organized and productive. Learn best practices for handling your inbox.\n\n📧 Email Organization:\n1. Create folders/labels for different topics\n   - Work, Family, Finances, Shopping, etc.\n2. Use the archive button to remove from inbox but keep in records\n3. Delete spam and unneeded emails regularly\n4. Unsubscribe from mailing lists you don't want\n5. Use filters to automatically sort incoming emails\n\n🏷️ Creating Labels in Gmail:\n1. Left side, click 'More' > 'Create new label'\n2. Name your label\n3. In an email, click label icon to assign it\n4. Use 'Move to' button to move multiple emails\n\n⭐ Starring and Marking Important:\n• Click star icon to mark important emails\n• Filter by starred emails to find them quickly\n• Use different colors for different priorities (Gmail)\n• Create a 'Follow-up' folder for emails needing action\n\n🔔 Managing Notifications:\n1. Go to Settings > Notifications\n2. Choose when you get email alerts\n3. Disable notifications for less important accounts\n4. Turn off during work or personal time\n5. Set 'Quiet hours' to avoid nighttime alerts\n\n✍️ Writing Professional Emails:\n• Use clear subject lines that describe the content\n• Start with a greeting: 'Hi [Name]'\n• Keep sentences short and clear\n• Get to the point quickly\n• Use bullet points for multiple items\n• End with a closing: 'Thank you', 'Best regards'\n• Proofread before sending\n• Avoid TYPING IN ALL CAPS (seems like shouting)\n• Don't use too many emojis in professional emails\n\n⏰ Email Etiquette:\n• Respond to important emails within 24 hours\n• Use 'Reply All' carefully — only when needed\n• Don't forward emails without permission\n• Keep messages professional but friendly\n• Don't use email for urgent matters — call instead\n• Respect quiet hours — don't email late at night",
+      "tips": [
+        "Create a rule to filter emails: In Gmail, search for emails > More > Create filter.",
+        "Use email templates for common responses to save time.",
+        "Check your spam folder regularly to make sure important emails aren't caught there.",
+        "Keep important information in folders instead of relying on email search."
+      ]
+    },
+    {
+      "id": "productivity-lesson-3",
+      "title": "Keeping Your Digital Life Organized",
+      "difficulty": 2,
+      "content": "Staying organized online saves time and reduces stress. Learn systems for managing files, passwords, and information.\n\n📁 File Organization:\n1. Create a logical folder structure:\n   - Work/Projects/[ProjectName]/\n   - Personal/Finance/[Year]/\n   - Personal/Health/\n   - Archives/[Year]/\n2. Use clear naming conventions:\n   - Good: \"2024-Q1-Sales-Report.pdf\"\n   - Bad: \"report.pdf\" or \"final_final_v2.doc\"\n3. Archive old files to an external drive\n4. Delete duplicate files\n5. Back up important files to cloud storage\n\n🔐 Password Management:\n1. Use a password manager: Google Password Manager, Bitwarden, 1Password\n2. Benefits:\n   - Remembers complex passwords\n   - Generates strong random passwords\n   - Auto-fills login information\n   - Centralizes all passwords in one secure location\n3. How to use:\n   - Create one strong master password\n   - Let the manager store all your other passwords\n   - Access passwords when needed\n   - Never write passwords down\n\n📋 Task Management:\n• Use tools like Google Tasks, Microsoft To Do, or Todoist\n• Create lists for work, personal, shopping, etc.\n• Check off completed tasks\n• Set reminders for important deadlines\n• Review tasks daily\n• Keep lists updated and remove old items\n\n📅 Calendar Management:\n1. Use Google Calendar or Outlook Calendar\n2. Create different calendars for different areas:\n   - Work, Personal, Family, Health, Hobbies\n3. Color-code calendars for quick recognition\n4. Set reminders for important events\n5. Share family calendar with relevant people\n6. Invite others to events and track RSVPs\n\n🎯 Creating a Digital System:\n1. Choose your tools: email, calendar, notes, tasks, storage\n2. Set up consistent organization:\n   - Naming conventions\n   - Folder structures\n   - Label systems\n3. Establish routines:\n   - Check email at specific times\n   - Review tasks daily\n   - Archive old items weekly\n   - Back up weekly or monthly\n4. Review and update quarterly:\n   - Delete old, unused files\n   - Update contacts\n   - Organize backlog\n   - Assess what's working",
+      "tips": [
+        "Use OneNote or Google Keep for quick notes instead of cluttering your email.",
+        "Set a specific time each week to organize your digital files.",
+        "Most productivity tools offer browser extensions for easy access.",
+        "If you have multiple email accounts, use filters to route them to different folders."
+      ]
+    }
+  ]
+}
